@@ -7,11 +7,13 @@ sequenceDiagram
 
     Farmer->>Open Mined: new model to train
     Open Mined->>Blockchain: propagate via model Farm to all mines
-    Miner-->>Blockchain: Check regularly for new mdels fitting personal data mine
-    Blockchain->>+Miner: Pick a model that is worth training
-    IPFS->>Miner: Retrieve latest trained model configuration
+    Miner-->>Blockchain: Check regularly for new models fitting personal data mine
+    Miner->>Blockchain: Pick a model that is worth training
+    activate Miner
+    Miner->>IPFS: Retrieve latest trained model configuration
     Note right of Miner: Train the model on local data owned by the Miner
     Miner->>IPFS: Store newly trained model
-    Miner->>-Open Mined: Propagate new model version and achieved gradient
+    Miner->>Open Mined: Propagate new model version and achieved gradient
+    deactivate Miner
     Open Mined->>Blockchain: Update latest revision of trained model
     Open Mined-->>Miner: Cash out depending on achieved gradient
