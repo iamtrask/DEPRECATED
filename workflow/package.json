@@ -1,0 +1,32 @@
+{
+    "name": "openmined-docs-workflow",
+    "version": "0.0.1",
+    "description": "workflow documentation of the open mined framework",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dist": "mermaid -o dist/ src/*.mmd"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/OpenMined/docs.git"
+    },
+    "keywords": [
+        "open",
+        "mined",
+        "docs",
+        "documentation",
+        "graphic"
+    ],
+    "author": "Andreas Offenhaeuser <http://anoff.io>",
+    "license": "MIT",
+    "private": true,
+    "bugs": {
+        "url": "https://github.com/OpenMined/docs/issues"
+    },
+    "homepage": "https://github.com/OpenMined/docs#readme",
+    "dependencies": {
+        "mermaid": "^7.0.3",
+        "phantomjs": "^2.1.7"
+    }
+}
