@@ -4,6 +4,18 @@
 
 This top level project should provide helpful links to all available documentation.
 
+<!-- TOC depthFrom:2 -->
+
+- [Overview](#overview)
+    - [Glossary](#glossary)
+    - [Projects](#projects)
+    - [Workflow](#workflow)
+    - [Incentives](#incentives)
+- [Sequential view](#sequential-view)
+- [Website](#website)
+- [License](#license)
+
+<!-- /TOC -->
 ## Overview
 
 ### Glossary
