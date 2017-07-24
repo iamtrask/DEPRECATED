@@ -14,15 +14,15 @@ This top level project should provide helpful links to all available documentati
 
 - **Miner** - An individual or organization interested in selling statistical access to their data.
 
-- **Data "Mine"** - A Mine is a repository of data that is in complete control of a Seller.  The Seller owns this data 100% and the right to do with it whatever they please.  At no point in this process does this individual send a copy of the data to anyone. The mine can be located anywhere that is in complete control by the user (mobile phone, local desktop, or non-shared cloud instance).
+- **Data "Mine"** - A Mine is a repository of data that is in complete control of a Miner.  The Miner owns this data 100% and the right to do with it whatever they please.  At no point in this process does this individual send a copy of the data to anyone. The mine can be located anywhere that is in complete control by the user (mobile phone, local desktop, or non-shared cloud instance).
 
 - **Model Farm** - Stored on the Blockchain (via IPFS), this is the collection of models that are available for training. All models are homomorphically encrypted using keys that are owned by the Capsule Oracle Service.
 
-- **Gradient** - The differential of change of a Model after it has been mined by a Seller.
+- **Gradient** - The differential of change of a Model after it has been mined by a Miner.
 
-- **Campaign** - An initiative started by a Buyer to train a Model.
+- **Campaign** - An initiative started by a Farmer to train a Model.
 
-- **Bounty** - The amount of money a Buyer puts forth into training a Model which is later distributed amongst the mines involved in training the Model.
+- **Bounty** - The amount of money a Farmer puts forth into training a Model which is later distributed amongst the mines involved in training the Model.
 
 ### Projects
 - **Sonar** - A federated learning server running on the blockchain that handles all campaign requests, holding Bounty in trust.  This library communicates with the Capsule to generate PGP keys and deliver the final, trained results back to the Farmer. It also communicates with miners, collecting Gradients and distributing Bounty accordingly.
