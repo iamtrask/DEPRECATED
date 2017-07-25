@@ -21,7 +21,7 @@ A: All data schemas will be publicly available and the before mentioned _adapter
 
 > Q: Why do you need a **Blockchain**?
 
-A: The blockchain technology is currently used to mediate between _Farmers_ and _Miners_. It takes care of pointing _Miners_ to the correct network to train and also acts as a trust for the _Farmers Bounty_ to be evenly distributed across all participating _Miners_.
+A: The blockchain technology is currently used to mediate between _Farmers_ and _Miners_. It takes care of pointing _Miners_ to the correct network to train and also acts as a trust for the _Farmers Bounty_ to be fairly (which is not necessarily evenly) distributed across all participating _Miners_.
 
 ## My question is not answered
 
