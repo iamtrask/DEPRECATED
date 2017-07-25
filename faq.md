@@ -13,7 +13,7 @@ A: We plan to provide a variety of deployment options for the generic Mine softw
 A: We plan to provide an set of _adapters_ that allow easy access to existing data sinks like **Twitter Accounts**, **Smartwatches** and others. However a large thriving ecosystem of awesome developers is required to provide all _adapters_ required to create mines of huge value.
 In addition to machine generated data there might be web interfaces where Miners can further enrich their data by providing personal details.
 
-> Q: How do I know which **data** is available in the Mines?
+> Q: How do I know which **data** is already available in the Mines?
 
 A: All data schemas will be publicly available and the before mentioned _adapters_ will create de-facto standards. Open Mined might show a counter of available _data sets_ and _data points_ per schema.
 
