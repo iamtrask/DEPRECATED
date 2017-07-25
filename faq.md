@@ -6,6 +6,10 @@ Please make sure to check the [Glossary and workflow](readme.md) before going th
 
 > Q: How do people create their **own Mine**?
 
+A: We plan to provide a variety of deployment options for the generic Mine software. The general theme is a downloadable that you can easily run on one of the available devices we plan to support. General candidates for platforms we plan to support are your own cloud node, local machine, smartphone, or possible even a raspberry pi. However, we have yet to curate a final list of places to store your data and are quite open minded about the possibilities.
+
+> Q: How do people load data into their Mine?
+
 A: We plan to provide an set of _adapters_ that allow easy access to existing data sinks like **Twitter Accounts**, **Smartwatches** and others. However a large thriving ecosystem of awesome developers is required to provide all _adapters_ required to create mines of huge value.
 In addition to machine generated data there might be web interfaces where Miners can further enrich their data by providing personal details.
 
