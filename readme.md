@@ -17,7 +17,7 @@ This top level project should provide helpful links to all available documentati
 
 <!-- /TOC -->
 ## Overview
-
+![Architecture Slide](img/architecture.png)
 ### Glossary
 
 - **Model** - a neural network capable of learning to translate one dataset (i.e. tweets) into another (i.e. positive/negative sentiment predictions)
