@@ -22,7 +22,7 @@ This top level project should provide helpful links to all available documentati
 
 - **Model** - a neural network capable of learning to translate one dataset (i.e. tweets) into another (i.e. positive/negative sentiment predictions)
 
-- **Farmer** - An individual or organization interested in training a Model (perhaps for a product they sell)
+- **Data Scientist** - An individual (often part of an Organization) interested in training a Model on data that they do not have direct access to.
 
 - **Miner** - An individual or organization interested in selling statistical access to their data.
 
