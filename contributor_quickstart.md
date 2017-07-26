@@ -26,14 +26,14 @@ And, since the ultimate source of Data is People, we (as a society) have fallen 
 
 Given this setup, this creates several significant problems in society, which we, the team of Contributors, hope to solve:
 
-#### Problems We Want to Solve
+### Problems We Want to Solve
 
 - **Privacy** - people systemically lose control of their data.
 - **Lost Natural Income** - data is a natural resource, but people rarely get paid for it.
 - **Sensitive Product Problem** - sensitive models don't get trained (details below)
 - **Aggregated Power** - a few players have most of the data.
 
-#### Privacy
+### Privacy
 
 The business model of Machine Learning is setup to value companies based on their ability to, frankly, compromise the privacy of consumers. The more data they can harvest, the better. The more intimate the better (more intimate/personal products!), and the more recent the better (aka the thirst will never be quenched because the data needs to be fresh).
 
@@ -47,7 +47,7 @@ More importantly, Machine Learning models can be trained wherein the input data 
 
 **Goal #1:** So, the first goal of OpenMined is to help people to *reclaim control of their data* by creating the technology necessary for people to leverage the online goods and services they want without needing to offer up their data in return.
 
-#### Lost Natural Income
+### Lost Natural Income
 
 This one is quite simple. People are creating one of the most valuable natural resources of the modern age, and the vast majority of the time they trade that resource in exchange for a simple App (the primary value of which IS the consistent data of the people they know... not the Javascript/HTML used to make it).
 
@@ -55,7 +55,7 @@ We want to see that people are compensated directly for their data in a way that
 
 **Goal #2:** The second goal of OpenMined is to create technology that facilitates the voluntary **rental** of one's data to a third party in such a a way that privacy is protected. If successful, consumers should be able to earn a significant, passive income by simply living their lives and renting statistical access to the data it generates (not the data itself!)
 
-#### Sensitive Product Problem
+### Sensitive Product Problem
 
 Let's say I was a company who wanted to build a Machine Learning solution that helped predict whether someone was at risk of a life threatening mental health issue (such as potential suicide or an eating disorder). First, in order to solve such a high-dimensional issue (many potential indicators or false alarms), we would likely need a lot of data. Furthermore, correctly predicting something that people are inclined to hide means that we would very likely need incredibly intimate data. If we collected this kind of data around a large group of people (conversation transcripts, frequent facial expressions, relationship issues/transitions, financial state, work/life balance issues, diet over time), we would further need to know *for those same people* whether or not they had a mental condition.
 
@@ -65,8 +65,10 @@ The major headwind here is the availability of data to help solve the problem. T
 
 **Goal #3:** Facilitate the development of applications that help people in underserved areas, particularly those that deal with intimate/private issues such as mental, physical, and relational health which are limited by data availability.
 
-#### Decentralizing Aggregated Power
+### Decentralizing Aggregated Power
 
 This one is also quite simple. In the modern area, ye who owns the data owns the world. Presently, the vast majority of consumer data is collected and controlled by a relatively small number of players. As a result, product development (and really societal progress) is heavily influenced by a few central authorities (and is used for their interests). By decentralizing the control of data, we also seek to decentralize the incentives for how it is used. If people own the data, they get to call the shots regarding how it's used. This power dynamic is inherently democratic and good for our society as a whole, and we're here to facilitate it.
 
 **Goal #4:** We want the deciding voice for how data is used to be the population who creates it. Our role is to build the technology that empowers the population with this ability.
+
+## The Plan
