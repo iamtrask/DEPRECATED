@@ -9,6 +9,7 @@ This top level project should provide helpful links to all available documentati
 - [Overview](#overview)
     - [Glossary](#glossary)
     - [Projects](#projects)
+    - [Repositories](#repositories)
     - [Workflow](#workflow)
     - [Incentives](#incentives)
 - [Sequential view](#sequential-view)
@@ -18,6 +19,7 @@ This top level project should provide helpful links to all available documentati
 <!-- /TOC -->
 ## Overview
 ![Architecture Slide](img/architecture.png)
+
 ### Glossary
 
 - **Model** - a neural network capable of learning to translate one dataset (i.e. tweets) into another (i.e. positive/negative sentiment predictions)
@@ -44,6 +46,35 @@ This top level project should provide helpful links to all available documentati
 - **Mine** - The individual data repositories of a user.  These are constantly checking Sonar for new neural nets to contribute to.  The more data that is uploaded to a mine, the more relevant it becomes to Sonar.  All the mines in the “minefield” are competing against each other to train a Sonar neural network if they contain applicable data.  Sonar does not know of these mines, but they all know of Sonar - it’s a unidirectional relationship for security purposes.
 
 - **Syft** - The library containing Neural Networks that can be trained in an encrypted state (so that Miners can’t steal the neural networks that they download to train).
+
+### Repositories
+
+- **Capsule** _(Python)_  
+PGP key generator, also responsible for delivering the trained and decrypted dataset back to data scientist
+
+- **Sonar** _(Python)_  
+Blockchain contracts, holds all IPFS addresses for neural networks
+
+- **PySonar** _(Python)_  
+Python data science library for training models over the system
+
+- **Sonar UI** _(React.js)_  
+for creating campaigns and monitoring campaign progress/spend
+
+- **Mine** _(Node.js)_  
+Server side for storing data and retrieving models from Sonar
+
+- **Mine UI** _(React.js)_  
+User interface for monitoring mine usage, setting permissions, etc.
+
+- **Syft** _(Python)_  
+Machine learning, called from Mine’s server side
+
+- **Adapters** _(Node.js)_  
+Converting Facebook, Twitter, and other external data sources into Open Mined schemas
+
+- **Statistics and usage service** _(Node.js)_  
+API that exposes public mine/sonar activity for promotion and marketing
 
 ### Workflow
 The Open Mined system starts with a Data Scientist creating a request to Sonar in order to begin a mining campaign.  The Data Scientist defines some basic parameters:
