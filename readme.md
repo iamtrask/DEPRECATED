@@ -74,7 +74,7 @@ User interface for monitoring mine usage, setting permissions, etc.
 Machine learning, called from Mine’s server side
 
 - **Adapters** _(Node.js)_  
-Converting Facebook, Twitter, and other external data sources into Open Mined schemas
+Converting external data sources into Open Mined schemas
 
 - **Statistics and usage service** _(Node.js)_  
 API that exposes public mine/sonar activity for promotion and marketing
