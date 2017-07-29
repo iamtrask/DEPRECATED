@@ -52,7 +52,7 @@ This top level project should provide helpful links to all available documentati
 - **Capsule** _(Python)_  
 PGP key generator, also responsible for delivering the trained and decrypted dataset back to data scientist
 
-- **Sonar** _(Python)_  
+- **Sonar** _(Solidity/Truffle)_  
 Blockchain contracts, holds all IPFS addresses for neural networks
 
 - **PySonar** _(Python)_  
