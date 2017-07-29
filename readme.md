@@ -61,7 +61,7 @@ Python data science library for training models over the system
 - **Sonar UI** _(React.js)_  
 for creating campaigns and monitoring campaign progress/spend
 
-- **Mine.py** _(Node.js)_  
+- **Mine.py** _(Python)_  
 Python Server side for storing data and retrieving models from Sonar (identical functionality to Mine.js)
 
 - **Mine.js** _(Node.js)_  
