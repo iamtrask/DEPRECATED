@@ -77,7 +77,7 @@ Machine learning, called from Mine’s server side
 Converting external data sources into Open Mined schemas
 
 - **Statistics and usage service** _(Node.js)_  
-API that exposes public mine/sonar activity for promotion and marketing
+Scripts/API that exposes public mine/sonar activity for analysis.
 
 ### Workflow
 The Open Mined system starts with a Data Scientist creating a request to Sonar in order to begin a mining campaign.  The Data Scientist defines some basic parameters:
