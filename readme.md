@@ -123,7 +123,11 @@ For a sequential view of the **Open Mined** workflow visit the [workflow](./work
 
 ## Website
 
-The official **Open Mined** website is available at [openmined.org](http://openmined.org)
+The official **Open Mined** website is available at [openmined.org](http://openmined.org).
+
+## Meetings
+
+All public meetings are posted to the [meetings](./meetings) folder.
 
 ## License
 
