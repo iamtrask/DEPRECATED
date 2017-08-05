@@ -19,7 +19,7 @@ This top level project should provide helpful links to all available documentati
 
 <!-- /TOC -->
 ## Overview
-![Architecture Slide](img/architecture.png)
+[![Watch the video](https://github.com/OpenMined/Docs/raw/master/img/OpenMinedIntro.png)](https://www.youtube.com/watch?v=sXFmKquiVnk)
 
 ### Glossary
 
