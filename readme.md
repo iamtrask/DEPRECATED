@@ -120,7 +120,7 @@ The earliest creators of mines will also reap the largest benefits, as it common
 
 ## Sequential view
 
-For a sequential view of the **Open Mined** workflow visit the [workflow](./workflow) section.
+![workflow](./img/workflow/dist/seq-new-model.mmd.png)
 
 ## Website
 
