@@ -40,6 +40,9 @@ This top level project should provide helpful links to all available documentati
 - **Bounty** - The amount of money a Data Scientist puts forth into training a Model which is later distributed amongst the mines involved in training the Model.
 
 ### Projects
+
+![components](img/components-graphic.png)
+
 - **Sonar** - A federated learning server running on the blockchain that handles all campaign requests, holding Bounty in trust.  This library communicates with the Capsule to generate PGP keys and deliver the final, trained results back to the Data Scientist. It also communicates with miners, collecting Gradients and distributing Bounty accordingly.
 
 - **Capsule** - A third-party PGP server to generate public and private keys in order to ensure that Sonar neural network stay encrypted properly.
