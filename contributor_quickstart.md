@@ -1,6 +1,14 @@
 # Step 1: Introduce Yourself!
 
-Proceed to our website (http://openmined.org/) and click the link to get an invitation to our Slack team. Fill out your Slack profile with your background and interests, and introduce yourself in the #general-discussion channel.
+### Part 1: Join the Slack Team
+Proceed to our website (http://openmined.org/) and click the link to get an invitation to our Slack team. 
+
+### Part 2: Fill out your Slack Profile
+Fill out your Slack profile with your background and interests, and introduce yourself in the #general-discussion channel.
+
+### Part 3: Fill out the New Contributor Survey!
+This will help us know who you are!
+https://goo.gl/forms/86y61YQx6bIAI8TF3
 
 # Step 2: OpenMined Introduction
 
