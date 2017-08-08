@@ -8,4 +8,4 @@ The following graph shows you how **Open Mined** can be used to train a model in
 
 * Explain stuff according to docs 🤗
 
- ![model workflow](./dist/seq-new-model.mmd.png)
+ ![model workflow](./img/workflow/dist/seq-new-model.mmd.png)
