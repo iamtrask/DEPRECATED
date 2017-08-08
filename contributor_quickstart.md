@@ -1,4 +1,4 @@
-# Contributor Quickstart Guide
+# Project Overview
 
 Hi! Welcome to the Contributor Quickstart Guide! The purpose of this tutorial is to give you (all in one place!):
 
