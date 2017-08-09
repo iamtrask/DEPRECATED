@@ -119,10 +119,23 @@ The acceptance criteria for a milestone are broken down into features for affect
 
 ### Issue
 
-> work packages for any developer to pick and work on
+> features/milestones broken down into coder speak
 
-`Purpose`: 
+`Purpose`: Isolated work package description for developers to pick and code
 
-`Where to find`: Github issues section for the respective repository
+`Where to find`: [Github issues](https://github.com/OpenMined/Sonar/issues) section for the respective repository
 
 `Conventions`:
+* issues are not assigned by default
+    * assign when someone is commited to working on it
+    * component maintainer checks if there are _blocked_ issues w/o progress
+* issues required for milestone should have the milestone label
+* use labels in a descriptive manner
+    * `enhancement`, `bug`, `docs`
+    * `for-beginner`, `my-first-pr`
+    * `wontfix`
+* add acceptance criteria as well as a full description (or links) of the issue to solve
+    * try to not to enforce solutions unless technically necessary
+    * refer to coding standards if necessary (e.g. existing API definitions)
+
+`Example`: [this PySyft issue](https://github.com/OpenMined/PySyft/issues/30)
