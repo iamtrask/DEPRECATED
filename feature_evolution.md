@@ -1,6 +1,6 @@
 # Feature Evolution Process
 
-> How does the OpenMined ecosystem develop new features 🛣📈
+> How does the OpenMined ecosystem develop new features? 🛣📈
 
 <!-- TOC depthFrom:2 -->
 
@@ -18,17 +18,21 @@ Some words being used repeatedly in this document for quick reference. Most of t
 
 `System`: All of OpenMineds **components** working together
 
-`Roadmap`: Features of the whole **system** bundled into milestones
+`🛣 Roadmap`: Features of the whole **system** bundled into milestones
 
-`Featuremap`: A **component** specific list of features that are planned.
+`💡 Featuremap`: A **component** specific list of features that are planned.
 
-`Issue`: A github issue which is the smallest description of a workpackage, usually specific and belonging to a **component**
+`☑️ Issue`: A github issue which is the smallest description of a workpackage in a differential stlye (_add/remove .._), usually specific and belonging to a **component**
 
-`Milestone`: Baselined version of the whole **system** where all **components** have matching interfaces
+`📝 Specification`: Describing an absolute state of either a **component** or the **system** (_component/system spec_). Every other milestone it might make sense to combine the differential **milestones** into a new system specification - or vice-versa.
 
-`MVP`: Special **milestones** that are marketable to the outside
+`📦 Milestone`: Baselined version of the whole **system** where all **components** have matching interfaces
 
-`PoC`: Just..don't use it please?
+`👁 Vision`: Overall goal OpenMined is aiming to achieve (_TODO: Link to vision_)
+
+`🎁 MVP`: Special **milestones** that are marketable to the outside
+
+`🚫 PoC, Project`: Just..don't use it please?
 
 ## How to define work packages for a component
 
@@ -50,17 +54,17 @@ As the OpenMined components have very complex relationships 👨‍👩‍👧�
 
 `Example`:
 
-**Milestone Hydrogen**
+>**Milestone Hydrogen**
 
-**Theme:** Reproduce the [diabetes demo use case](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) with all components running indivdually
+>**Theme:** Reproduce the [diabetes demo use case](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) with all components running indivdually
 
-**Goals:**
-* Important Baseline to Enable Distributed Development
-* Important Baseline for Onboarding/Teaching Developers
+>**Goals:**
+>* Important Baseline to Enable Distributed Development
+>* Important Baseline for Onboarding/Teaching Developers
 
-**Use Case:** Diabetes Demo 
+>**Use Case:** Diabetes Demo 
 
-**Assumptions:**
-* No Capsule: Data Scientist holds Homomorphic Keys
+>**Assumptions:**
+>* No Capsule: Data Scientist holds Homomorphic Keys
 
 ```
