@@ -15,11 +15,11 @@ In addition to machine generated data there might be web interfaces where Miners
 
 > Q: How do I know which **data** is already available in the Mines?
 
-A: All data schemas will be publicly available and the before mentioned _adapters_ will create de-facto standards. Open Mined might show a counter of available _data sets_ and _data points_ per schema.
+A: All data schemas will be publicly available and the before mentioned _adapters_ will create de-facto standards. OpenMined might show a counter of available _data sets_ and _data points_ per schema.
 
 > Q: What is the current development state?
 
-A: Currently the [demo](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) shows the overall workflow of Open Mined. In addition all the functional steps are implemented using available open source libraries or open code from our side. The next step for Open Mined will be a large(r) scale proof of concept. While running several mines in the system we will identify several issues regarding performance, usability and overall system design. Those will be tackled in a second development phase.
+A: Currently the [demo](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) shows the overall workflow of OpenMined. In addition all the functional steps are implemented using available open source libraries or open code from our side. The next step for OpenMined will be a large(r) scale proof of concept. While running several mines in the system we will identify several issues regarding performance, usability and overall system design. Those will be tackled in a second development phase.
 
 ## Technology
 
@@ -29,7 +29,7 @@ A: The blockchain technology is currently used to mediate between _Farmers_ and 
 
 > Q: How can a data scientist design his **model**?
 
-A: Early on the `syft` library will come with several basic models. Most available libraries like `scikitlearn` or `tensorflow` do not have _homomorphic encryption_ capabilities. Therefore they do not work with Open Mined out of the box. We will focus on bringing more ways to build your models later on during the development.
+A: Early on the `syft` library will come with several basic models. Most available libraries like `scikitlearn` or `tensorflow` do not have _homomorphic encryption_ capabilities. Therefore they do not work with OpenMined out of the box. We will focus on bringing more ways to build your models later on during the development.
 
 ## My question is not answered
 

@@ -1,7 +1,7 @@
 {
     "name": "openmined-docs-workflow",
     "version": "0.0.1",
-    "description": "workflow documentation of the open mined framework",
+    "description": "workflow documentation of the OpenMined framework",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
