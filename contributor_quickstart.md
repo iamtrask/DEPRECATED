@@ -34,6 +34,17 @@ Once you've got a general understanding of the project, you'll want to start wit
 - Demo: Encrypted Neural Network on Test Ethereum Blockchain
   - https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb
 
-## Step 6: Congratulations!
+## Step 6: Congratulations You're Ready!
 
-You've completed the startup guide! Now, reach out to @trask on the Slack team so he can help you find your first project. Once your first Pull Request is merged into an OpenMined repository, you'll get your official invite to become a Member of the Github Organization!
+You now have the basics of the OpenMined ecosystem up and running and are ready to take on Beginner level projects (Issues). We've gone out of our way to make sure that there are a plethora of mini-projects (Issues) that are 100% entry level. The way to find one is to pick any project and click the "Issues" Tab at the top. This should take you to a place that looks like this.
+
+[Issues.png](https://github.com/OpenMined/Docs/raw/master/img/issues.png)
+
+
+Next, you click "Labels -> Beginner". This will filter out all tickets except for the Beginner tickets. Click one of the tickets and you'll see something like this:
+
+[https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png](https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png)
+
+This ticket contains instructions for how to add a subtraction function to our Base Tensor object, with links to further documentation to help explain everything the ticket should do. If you have ANY questions about a ticket, simply message the person who created the ticket (in the ticket above, that's @trask on Slack)
+
+Once your first Pull Request is merged into an OpenMined repository, you'll get your official invite to become a *Member of the Github Organization*!
