@@ -51,4 +51,6 @@ Next, you click "Labels -> Beginner". This will filter out all tickets except fo
 
 This ticket contains instructions for how to add a subtraction function to our Base Tensor object, with links to further documentation to help explain everything the ticket should do. If you have ANY questions about a ticket, simply message the person who created the ticket (in the ticket above, that's @trask on Slack)
 
+Before beginning work, make sure to be aware of our [contributing guidelines]('./guidelines.md').
+
 Once your first Pull Request is merged into an OpenMined repository, you'll get your official invite to become a *Member of the Github Organization*!
