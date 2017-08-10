@@ -18,7 +18,8 @@ In all places, whether commenting, filing an issue, or writing documentation, fo
 
 ### Step 2: Branch (and maybe fork)
 
-- Pull requests to master only.
+For the most part, we follow [git flow](http://nvie.com/posts/a-successful-git-branching-model/), with the exception of a few additional rules:
+
 - If you have not contributed, fork and branch from there.
 - Branch names have the following tags:
     - 🐛 `bug`- fixing bugs in existing code
@@ -33,7 +34,7 @@ In all places, whether commenting, filing an issue, or writing documentation, fo
 
         **Example** `feature/he--key-rotation-add` or `chore/webpack--update-to-2`
 
-- Master Branches on all repos stay protected, branch from there
+- `master` and `develop` on all repos stay protected, branch from there
 
 
 ### Step 3: Do work and commit
