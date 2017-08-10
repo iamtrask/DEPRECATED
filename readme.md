@@ -13,6 +13,7 @@ This top level project should provide helpful links to all available documentati
     - [Workflow](#workflow)
     - [Incentives](#incentives)
 - [Sequential view](#sequential-view)
+- [Contributing](#contributing)
 - [Website](#website)
 - [Meetings](#meetings)
 - [License](#license)
@@ -124,6 +125,12 @@ The earliest creators of mines will also reap the largest benefits, as it common
 ## Sequential view
 
 ![workflow](./img/workflow/dist/seq-new-model.mmd.png)
+
+## Contributing
+
+For first timers go to the [quick start guide]('./contributing/quickstart.md')
+
+If you are ready to dive in an start contributing, checkout our [guidelines]('./contributing/guidelines.md') beforehand.
 
 ## Website
 
