@@ -1,12 +1,12 @@
 ## Step 1: Introduce Yourself!
 
-### Part 1: Join the Slack Team
+#### Part 1: Join the Slack Team
 Proceed to our website (http://openmined.org/) and click the link to get an invitation to our Slack team. 
 
-### Part 2: Fill out your Slack Profile
+#### Part 2: Fill out your Slack Profile
 Fill out your Slack profile with your background and interests, and introduce yourself in the #general-discussion channel.
 
-### Part 3: Fill out the New Contributor Survey!
+#### Part 3: Fill out the New Contributor Survey!
 This will help us know who you are!
 https://goo.gl/forms/86y61YQx6bIAI8TF3
 
@@ -38,12 +38,12 @@ Once you've got a general understanding of the project, you'll want to start wit
 
 You now have the basics of the OpenMined ecosystem up and running and are ready to take on Beginner level projects (Issues). We've gone out of our way to make sure that there are a plethora of mini-projects (Issues) that are 100% entry level. The way to find one is to pick any project and click the "Issues" Tab at the top. This should take you to a place that looks like this.
 
-[Issues.png](https://github.com/OpenMined/Docs/raw/master/img/issues.png)
+![Issues.png](https://github.com/OpenMined/Docs/raw/master/img/issues.png)
 
 
 Next, you click "Labels -> Beginner". This will filter out all tickets except for the Beginner tickets. Click one of the tickets and you'll see something like this:
 
-[https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png](https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png)
+@[https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png](https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png)
 
 This ticket contains instructions for how to add a subtraction function to our Base Tensor object, with links to further documentation to help explain everything the ticket should do. If you have ANY questions about a ticket, simply message the person who created the ticket (in the ticket above, that's @trask on Slack)
 
