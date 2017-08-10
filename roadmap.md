@@ -5,10 +5,10 @@
 <!-- TOC depthFrom:2 -->
 
 - [Active](#active)
-    - [Hydrogen](#hydrogen)
+    - [Hydrogen 💧](#hydrogen-💧)
 - [Future](#future)
-    - [Helium](#helium)
-    - [Lithium](#lithium)
+    - [Helium 💡](#helium-💡)
+    - [Lithium 🔋](#lithium-🔋)
 - [Past](#past)
 
 <!-- /TOC -->
@@ -19,7 +19,7 @@ This document is part of the [feature evolution process](feature_evolution.md) a
 
 > currently active milestone
 
-### Hydrogen
+### Hydrogen 💧
 
 **Theme:** Reproduce the [diabetes demo use case](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) with all components running indivdually
 
@@ -56,7 +56,7 @@ The AC for this milestone is defined in form of work instructions necessary for 
 
 > lists the specified future milestones (next one on top)
 
-### Helium
+### Helium 💡
 
 **Theme:** Introduce `capsule` component
 
@@ -75,7 +75,7 @@ The AC for this milestone is defined in form of work instructions necessary for 
 * [OM/capsule](https://github.com/OpenMined/capsule/issues?q=is%3Aissue+milestone%3AHelium)
 * [OM/PySonar](https://github.com/OpenMined/PySonar/issues?utf8=%E2%9C%93&q=is%3Aissue%20milestone%3AHelium)
 
-### Lithium
+### Lithium 🔋
 
 **Theme:** Distributed OpenMined platform for _tweet content_ ➡️  _hashtag prediction_
 
