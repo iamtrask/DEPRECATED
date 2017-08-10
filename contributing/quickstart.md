@@ -45,7 +45,17 @@ You now have the basics of the OpenMined ecosystem up and running and are ready 
 ![Issues.png](https://github.com/OpenMined/Docs/raw/master/img/issues.png)
 
 
-Next, you click "Labels -> Beginner". This will filter out all tickets except for the Beginner tickets. Click one of the tickets and you'll see something like this:
+Next, you click "Labels -> Beginner".
+
+ 
+Or, click on this link:
+[Labels -> Beginner](https://github.com/OpenMined/PySyft/issues?q=is%3Aopen+is%3Aissue+label%3A%22d.+Beginner%22).
+
+
+This will filter out all tickets except for the Beginner tickets. 
+
+
+Click one of the tickets and you'll see something like this:
 
 ![https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png](https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png)
 
@@ -54,3 +64,4 @@ This ticket contains instructions for how to add a subtraction function to our B
 Before beginning work, make sure to be aware of our [contributing guidelines]('./guidelines.md').
 
 Once your first Pull Request is merged into an OpenMined repository, you'll get your official invite to become a *Member of the Github Organization*!
+
