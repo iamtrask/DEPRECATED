@@ -44,14 +44,14 @@ In all places, whether commenting, filing an issue, or writing documentation, fo
 
 ### Step 4: Pull Request
 - Pull request back into master and request review. All code must meet [code standards](#code), pass integration tests, and provide a meaningful contribution.
-- Tag the issues that the pull request is fulfilling
+- Tag the issues that the pull request is fulfilling using a GitHub keyword (e.g. `Closes #1`)
 - Be respectful to the reviewer! We are all trying to improve OpenMined 📈
 - Once your Pull Request has been accepted, you are officially a contributor! 🔥💥🎆🎉
 
 
 ## Code
 
-You are writing code for people to read just as much as machines. Be purposeful!
+You are writing code for people to read just as much as machines. Be purposeful! [Language specific conventions](./languages.md) supersede these rules.
 
 ### Filenames
 
@@ -64,7 +64,7 @@ Naming is not an exact science, but following these principals will help.
 
 -  **Booleans**: Prefix with `is`, `has`
 - Prioritize **descriptive** names over brevity (avoid names like `a`, `b`, `x`, etc).
-- Follow [language specific conventions](./languages)
+
 
 ### Comments
 
