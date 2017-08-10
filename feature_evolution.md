@@ -67,20 +67,7 @@ The key components in this step are described in detail below:
 * goals need to describe the contribution of this release to the overall vision
 * assumptions are optional and might describe what has been neglected on purpose
 
-`Example`:
-
-**Milestone Hydrogen**
-
-**Theme:** Reproduce the [diabetes demo use case](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) with all components running indivdually
-
-**Goals:**
-* Important Baseline to Enable Distributed Development
-* Important Baseline for Onboarding/Teaching Developers
-
-**Use Case:** Diabetes Demo 
-
-**Assumptions:**
-* No Capsule: Data Scientist holds Homomorphic Keys
+`Example`: see [hydrogen milestone](roadmap.md#hydrogen)
 
 ### Roadmap
 
