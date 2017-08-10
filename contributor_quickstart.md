@@ -34,7 +34,11 @@ Once you've got a general understanding of the project, you'll want to start wit
 - Demo: Encrypted Neural Network on Test Ethereum Blockchain
   - https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb
 
-## Step 6: Congratulations You're Ready!
+## Step 6: Install Zenhub Plugin
+
+In order to see our documentation and issues in all their full glory, you'll want to install this browser plugin for Zenhub. Just navigate to http://zenhub.com and click the "Add ZenHub to GitHub" button.
+
+## Step 7: Congratulations You're Ready!
 
 You now have the basics of the OpenMined ecosystem up and running and are ready to take on Beginner level projects (Issues). We've gone out of our way to make sure that there are a plethora of mini-projects (Issues) that are 100% entry level. The way to find one is to pick any project and click the "Issues" Tab at the top. This should take you to a place that looks like this.
 
