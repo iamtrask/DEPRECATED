@@ -1,21 +1,20 @@
 # Contributing
 
-Welcome! If you have not yet, checkout the [quickstart guide](./quickstart.md). The rest of this is for when you are starting to contribute code. The goal is to make contributing to the project as seemless as possible for _everyone_ by being on the same page. If you have any suggestions for rules, follow the [filing an issue guidelines](#suggestions) 
+Welcome! If you have not yet, checkout the [quickstart guide](./quickstart.md). The rest of this is for when you are starting to contribute code. The goal is to make contributing to the project as seemless as possible for _everyone_ by being on the same page. If you have any suggestions for rules, follow the [filing an issue guidelines](#suggestions)
 
 In all places, whether commenting, filing an issue, or writing documentation, follow [docker's documentation and style conventions](https://docs.docker.com/opensource/doc-style/)
 
 ## How to Contribute
 
-### Step 1: File an Issue
-- Before
+### Step 1: File / Claim an Issue
+- Give notification that you are working on an existing issue or file a new one with notification.
 - Issues or comments on existing issues should be related to OpenMined.
 - Issue titles should be concise yet descriptive.<br>
-  i.e. Instead of `Newbie question, please help`, use `How do I set up git to ignore test files?`
+  **Example** Instead of `Newbie question, please help`, use `How do I set up git to ignore test files?`
 
 - Phrasing should match the main purpose of the issue.<br>
   For example, if it is a bug report, the issue title should sound like a bug report
-  (i.e. `Option 'other' is missing from the dropdown`) instead of a feature request
-  (i.e. `Add 'other' option to the dropdown`).
+  **Example** `Option 'other' is missing from the dropdown` instead of a feature request `Add 'other' option to the dropdown`.
 
 ### Step 2: Branch (and maybe fork)
 
@@ -32,14 +31,15 @@ In all places, whether commenting, filing an issue, or writing documentation, fo
 - Branch names follow the following structure:
      - `<tag>/<feature name>--<branch changes>`
 
-        i.e. `feature/training--restarting` or `chore/webpack--update-to-2`
+        **Example** `feature/he--key-rotation-add` or `chore/webpack--update-to-2`
 
 - Master Branches on all repos stay protected, branch from there
 
 
 ### Step 3: Do work and commit
 
-- One logical change per commit
+- One commit per logical change
+- Be descriptive (no `Update README.md`)
 - [Commitizen](https://github.com/commitizen/cz-cli) is a wonderful tool that helps keep commits organized. If you are frequently contributing, we highly recommend using it.
 
 ### Step 4: Pull Request
@@ -56,14 +56,14 @@ You are writing code for people to read just as much as machines. Be purposeful!
 ### Filenames
 
 Unless a specific language convention states otherwise, all file names should be lower case and hyphenated.
-
+**Example** `this-is-a-name.js`
 
 ### Variable Naming
 
 Naming is not an exact science, but following these principals will help.
 
-- Use helper verbs when describing state
-- Prioritize descriptive names over brevity
+-  **Booleans**: Prefix with `is`, `has`
+- Prioritize **descriptive** names over brevity (avoid names like `a`, `b`, `x`, etc).
 - Follow [language specific conventions](./languages)
 
 ### Comments
