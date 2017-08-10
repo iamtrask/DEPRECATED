@@ -12,6 +12,7 @@
 - [Roadmap to issues](#roadmap-to-issues)
     - [Featuremap](#featuremap)
     - [Issue](#issue)
+- [Ideation (Bottom-Up)](#ideation-bottom-up)
 
 <!-- /TOC -->
 
@@ -139,3 +140,7 @@ The acceptance criteria for a milestone are broken down into features for affect
     * refer to coding standards if necessary (e.g. existing API definitions)
 
 `Example`: [this PySyft issue](https://github.com/OpenMined/PySyft/issues/30)
+
+## Ideation (Bottom-Up)
+
+In addition to breaking down features in a Top-Down manner it is helpful to have an established bottom-up process in place. The goal behind the ideation process is for a component to come up with individual features that might not be part of planned milestones. In this case the entry point for the FEP is the components [featuremap](#featuremap). Adding a new feature that is not mapped to a milestone is a valid move. However when prioritizing issue progress milestone-related issues should always be worked on first. After discussing/adding an additional feature to the featuremap the same process is done to finally end up with issues as described in the [roadmap to issues section](#roadmap-to-issues).
