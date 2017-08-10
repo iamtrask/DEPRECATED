@@ -1,6 +1,6 @@
 # Documentation
 
-> all kinds of 📚 for Open Mined
+> all kinds of 📚 for OpenMined
 
 This top level project should provide helpful links to all available documentation.
 
@@ -79,13 +79,13 @@ User interface for monitoring mine usage, setting permissions, etc.
 Machine learning, called from Mine’s server side
 
 - **Adapters** _(Node.js)_  
-Converting external data sources into Open Mined schemas
+Converting external data sources into OpenMined schemas
 
 - **Statistics and usage service** _(Node.js)_  
 Scripts/API that exposes public mine/sonar activity for analysis.
 
 ### Workflow
-The Open Mined system starts with a Data Scientist creating a request to Sonar in order to begin a mining campaign.  The Data Scientist defines some basic parameters:
+The OpenMined system starts with a Data Scientist creating a request to Sonar in order to begin a mining campaign.  The Data Scientist defines some basic parameters:
 
 **Bounty**  
 The amount of money the Data Scientist is willing to spend in order the train their model
@@ -134,7 +134,7 @@ If you are ready to dive in an start contributing, checkout our [guidelines]('./
 
 ## Website
 
-The official **Open Mined** website is available at [openmined.org](http://openmined.org).
+The official **OpenMined** website is available at [openmined.org](http://openmined.org).
 
 ## Meetings
 
