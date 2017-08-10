@@ -43,7 +43,7 @@ You now have the basics of the OpenMined ecosystem up and running and are ready 
 
 Next, you click "Labels -> Beginner". This will filter out all tickets except for the Beginner tickets. Click one of the tickets and you'll see something like this:
 
-@[https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png](https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png)
+![https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png](https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png)
 
 This ticket contains instructions for how to add a subtraction function to our Base Tensor object, with links to further documentation to help explain everything the ticket should do. If you have ANY questions about a ticket, simply message the person who created the ticket (in the ticket above, that's @trask on Slack)
 
