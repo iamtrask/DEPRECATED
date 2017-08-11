@@ -21,7 +21,7 @@ The latter two are the most recent inventions and still under active research. N
 
 3) [A brief survey of Fully Homomorphic Encryption, computing on encrypted data](https://blog.quarkslab.com/a-brief-survey-of-fully-homomorphic-encryption-computing-on-encrypted-data.html)
 
-4) ...
+4) [A Guide to Fully Homomorphic Encryption](https://www.dropbox.com/s/b7ir8o19llggbz7/A%20Guide%20to%20Fully%20Homomorphic%20Encryption.pdf?dl=0)
 
 
 ## Textbooks
