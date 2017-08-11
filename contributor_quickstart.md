@@ -18,7 +18,7 @@ This video covers the project as a whole including high level goals and the broa
 
 ## Step 3: Syft Installation + Homomorphic Encryption Demo
 
-Once you've got a general understanding of the project, you'll want to start with the basics, getting Homomorphic Encryption up and running within Syft.
+Once you've got a general understanding of the project, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
 
 - [First, install PySyft](https://github.com/OpenMined/PySyft/)
 - [Second, test this notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
