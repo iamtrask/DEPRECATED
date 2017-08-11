@@ -2,7 +2,7 @@
 
 Please make sure to check the [Glossary and workflow](readme.md) before going through these questions.
 
-## Ecosystem
+## Platform
 
 > Q: How do people create their **own Mine**?
 
@@ -19,7 +19,7 @@ A: All data schemas will be publicly available and the before mentioned _adapter
 
 > Q: What is the current development state?
 
-A: Currently the [demo](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) shows the overall workflow of OpenMined. In addition all the functional steps are implemented using available open source libraries or open code from our side. The next step for OpenMined will be a large(r) scale proof of concept. While running several mines in the system we will identify several issues regarding performance, usability and overall system design. Those will be tackled in a second development phase.
+A: Currently the [demo](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) shows the overall workflow of OpenMined. In addition all the functional steps are implemented using available open source libraries or open code from our side. The next step for OpenMined will be a large(r) scale proof of concept. While running several mines on the platform we will identify several issues regarding performance, usability and overall platform design. Those will be tackled in a second development phase.
 
 ## Technology
 
