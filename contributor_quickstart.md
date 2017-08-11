@@ -16,6 +16,8 @@ This video covers the project as a whole including high level goals and the broa
 
 [![Watch the video](https://github.com/OpenMined/Docs/raw/master/img/OpenMinedIntro.png)](https://www.youtube.com/watch?v=sXFmKquiVnk)
 
+- [OpenMined Introduction Slides](https://docs.google.com/presentation/d/1Tm7jh3pChks0ObJNb7x2ZZhhVOJhmCVN2KDPWyZohQU/edit)
+
 ## Step 3: Syft Installation + Homomorphic Encryption Demo
 
 Once you've got a general understanding of the project, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
