@@ -9,7 +9,7 @@ This top level project should provide helpful links to all available documentati
 - [Overview](#overview)
     - [Glossary](#glossary)
     - [Overview](#overview)
-    - [Intro Slides)(#slides)
+    - [Intro Slides](#slides)
     - [Projects](#projects)
     - [Repositories](#repositories)
     - [Workflow](#workflow)
