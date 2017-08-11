@@ -21,6 +21,9 @@ This top level project should provide helpful links to all available documentati
 ## Overview
 [![Watch the video](https://github.com/OpenMined/Docs/raw/master/img/OpenMinedIntro.png)](https://www.youtube.com/watch?v=sXFmKquiVnk)
 
+### OpenMined Intro Slides
+- https://docs.google.com/presentation/d/1Tm7jh3pChks0ObJNb7x2ZZhhVOJhmCVN2KDPWyZohQU/edit
+
 ### Glossary
 
 - **Model** - a neural network capable of learning to translate one dataset (i.e. tweets) into another (i.e. positive/negative sentiment predictions)
