@@ -133,7 +133,7 @@ The earliest creators of mines will also reap the largest benefits, as it common
 
 ## Contributing
 
-For first timers go to the [quick start guide]('./contributing/quickstart.md')
+For first timers go to the [quick start guide](./contributing/quickstart.md)
 
 If you are ready to dive in an start contributing, checkout our [guidelines]('./contributing/guidelines.md') beforehand.
 
