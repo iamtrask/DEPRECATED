@@ -16,16 +16,18 @@ This video covers the project as a whole including high level goals and the broa
 
 [![Watch the video](https://github.com/OpenMined/Docs/raw/master/img/OpenMinedIntro.png)](https://www.youtube.com/watch?v=sXFmKquiVnk)
 
+- [OpenMined Introduction Slides](https://docs.google.com/presentation/d/1Tm7jh3pChks0ObJNb7x2ZZhhVOJhmCVN2KDPWyZohQU/edit)
+
 ## Step 3: Syft Installation + Homomorphic Encryption Demo
 
-Once you've got a general understanding of the project, you'll want to start with the basics, getting Homomorphic Encryption up and running within Syft.
+Once you've got a general understanding of the project, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
 
-- [First, install Syft](https://github.com/OpenMined/Syft/)
-- [Second, test this notebook](https://github.com/OpenMined/Syft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
+- [First, install PySyft](https://github.com/OpenMined/PySyft/)
+- [Second, test this notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
 
 ## Step 4: Homomorphically Encrypted Linear Classifier Demo
 
-[Complete this Notebook](https://github.com/OpenMined/Syft/blob/master/notebooks/Syft%20-%20Paillier%20Encrypted%20Linear%20Classification.ipynb)
+[Complete this Notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Encrypted%20Linear%20Classification.ipynb)
 
 ## Step 5: Install Sonar, PySonar, and Demo
 
@@ -45,7 +47,17 @@ You now have the basics of the OpenMined ecosystem up and running and are ready 
 ![Issues.png](https://github.com/OpenMined/Docs/raw/master/img/issues.png)
 
 
-Next, you click "Labels -> Beginner". This will filter out all tickets except for the Beginner tickets. Click one of the tickets and you'll see something like this:
+Next, you click "Labels -> Beginner".
+
+
+Or, click on this link:
+[Labels -> Beginner](https://github.com/OpenMined/PySyft/issues?q=is%3Aopen+is%3Aissue+label%3A%22d.+Beginner%22).
+
+
+This will filter out all tickets except for the Beginner tickets.
+
+
+Click one of the tickets and you'll see something like this:
 
 ![https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png](https://github.com/OpenMined/Docs/raw/master/img/beginner_ticket.png)
 
