@@ -1,8 +1,17 @@
 # Helium Roadmap
 
-**Theme:** Introduce `capsule` component
+**Theme:** Full Local Linear MVP
+
+**Helium Demos:**
+* [Arbitrary Data Demo](https://github.com/OpenMined/Docs/roadmaps/helium/arbitrary_data_demo.md)
+* [Twitter Adapter Demo](https://github.com/OpenMined/Docs/roadmaps/helium/twitter_adapter_demo.md)
+* [Capsule Hosted Black Box Demo Demo](https://github.com/OpenMined/Docs/roadmaps/helium/hosted_capsule_demo.md)
+* [Capsule Key Rotation Demo Demo](https://github.com/OpenMined/Docs/roadmaps/helium/key_rotation_capsule_demo.md)
+* [YASHE based Logistic Regression Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+
 
 **Goals:**
+* Introduce `capsule` component
 * Improve security by trusted component with key ownership
 * Tackle differential privacy issue by shielding individual gradients from the data scientist
 
