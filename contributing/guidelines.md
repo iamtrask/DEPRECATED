@@ -1,6 +1,6 @@
 # Contributing
 
-Welcome! If you have not yet, checkout the [quickstart guide](./quickstart.md). The rest of this is for when you are starting to contribute code. The goal is to make contributing to the project as seemless as possible for _everyone_ by being on the same page. If you have any suggestions for rules, follow the [filing an issue guidelines](#suggestions)
+Welcome! If you have not yet, checkout the [quickstart guide](./quickstart.md). The rest of this is for when you are starting to contribute code. The goal is to make contributing to the project as seemless as possible for _everyone_ by being on the same page. If you have any suggestions for rules, follow the [filing an issue guidelines](#step-1-file--claim-an-issue)
 
 In all places, whether commenting, filing an issue, or writing documentation, follow [docker's documentation and style conventions](https://docs.docker.com/opensource/doc-style/)
 

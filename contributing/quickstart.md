@@ -49,12 +49,12 @@ You now have the basics of the OpenMined ecosystem up and running and are ready 
 
 Next, you click "Labels -> Beginner".
 
- 
+
 Or, click on this link:
 [Labels -> Beginner](https://github.com/OpenMined/PySyft/issues?q=is%3Aopen+is%3Aissue+label%3A%22d.+Beginner%22).
 
 
-This will filter out all tickets except for the Beginner tickets. 
+This will filter out all tickets except for the Beginner tickets.
 
 
 Click one of the tickets and you'll see something like this:
@@ -63,7 +63,6 @@ Click one of the tickets and you'll see something like this:
 
 This ticket contains instructions for how to add a subtraction function to our Base Tensor object, with links to further documentation to help explain everything the ticket should do. If you have ANY questions about a ticket, simply message the person who created the ticket (in the ticket above, that's @trask on Slack)
 
-Before beginning work, make sure to be aware of our [contributing guidelines]('./guidelines.md').
+Before beginning work, make sure to be aware of our [contributing guidelines](./guidelines.md).
 
 Once your first Pull Request is merged into an OpenMined repository, you'll get your official invite to become a *Member of the Github Organization*!
-
