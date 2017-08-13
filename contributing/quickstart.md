@@ -12,7 +12,7 @@ https://goo.gl/forms/86y61YQx6bIAI8TF3
 
 ## Step 2: OpenMined Introduction
 
-This video covers the project as a whole including high level goals and the broad architecture strategies (the big moving parts!).
+This video covers the platform as a whole including high level goals and the broad architecture strategies (the big moving parts!).
 
 [![Watch the video](https://github.com/OpenMined/Docs/raw/master/img/OpenMinedIntro.png)](https://www.youtube.com/watch?v=sXFmKquiVnk)
 
@@ -20,7 +20,7 @@ This video covers the project as a whole including high level goals and the broa
 
 ## Step 3: Syft Installation + Homomorphic Encryption Demo
 
-Once you've got a general understanding of the project, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
+Once you've got a general understanding of the platform, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
 
 - [First, install PySyft](https://github.com/OpenMined/PySyft/)
 - [Second, test this notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
@@ -42,7 +42,7 @@ In order to see our documentation and issues in all their full glory, you'll wan
 
 ## Step 7: Congratulations You're Ready!
 
-You now have the basics of the OpenMined ecosystem up and running and are ready to take on Beginner level projects (Issues). We've gone out of our way to make sure that there are a plethora of mini-projects (Issues) that are 100% entry level. The way to find one is to pick any project and click the "Issues" Tab at the top. This should take you to a place that looks like this.
+You now have the basics of the OpenMined ecosystem up and running and are ready to take on Beginner level projects (Issues). We've gone out of our way to make sure that there are a plethora of mini-projects (Issues) that are 100% entry level. The way to find one is to pick any repository and click the "Issues" Tab at the top. This should take you to a place that looks like this.
 
 ![Issues.png](https://github.com/OpenMined/Docs/raw/master/img/issues.png)
 
