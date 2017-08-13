@@ -41,11 +41,12 @@ For the most part, we follow [git flow](http://nvie.com/posts/a-successful-git-b
 
 - One commit per logical change
 - Be descriptive (no `Update README.md`)
+- Do not make unnecessary changes to the codebase (e.g. adding/removing newlines) or changes unrelated to the issue the pull request is meant to address (please open a separate PR!)
 - [Commitizen](https://github.com/commitizen/cz-cli) is a wonderful tool that helps keep commits organized. If you are frequently contributing, we highly recommend using it.
 
 ### Step 4: Pull Request
-- Pull request back into master and request review. All code must meet [code standards](#code), pass integration tests, and provide a meaningful contribution.
-- Tag the issues that the pull request is fulfilling using a GitHub keyword (e.g. `Closes #1`)
+- Open a pull request against `develop` and request a review. All code must meet [code standards](#code), pass integration tests, and provide a meaningful contribution.
+- Tag the issues that the pull request addresses by including a GitHub keyword in the description (e.g. `Closes #1`)
 - Be respectful to the reviewer! We are all trying to improve OpenMined 📈
 - Once your Pull Request has been accepted, you are officially a contributor! 🔥💥🎆🎉
 
