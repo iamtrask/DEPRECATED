@@ -42,19 +42,19 @@ In order to see our documentation and issues in all their full glory, you'll wan
 
 ## Step 7: Congratulations You're Ready!
 
-You now have the basics of the OpenMined ecosystem up and running and are ready to take on Beginner level projects (Issues). We've gone out of our way to make sure that there are a plethora of mini-projects (Issues) that are 100% entry level. The way to find one is to pick any repository and click the "Issues" Tab at the top. This should take you to a place that looks like this.
+You now have the basics of the OpenMined ecosystem up and running and are ready to take on `beginner` level projects (Issues). We've gone out of our way to make sure that there are a plethora of mini-projects (Issues) that are 100% entry level. The way to find one is to pick any GitHub repository and click the *Issues* Tab at the top. This should take you to a place that looks like this.
 
 ![Issues.png](https://github.com/OpenMined/Docs/raw/master/img/issues.png)
 
 
-Next, you click "Labels -> Beginner".
+Next, you click "Labels -> beginner".
 
 
 Or, click on this link:
-[Labels -> Beginner](https://github.com/OpenMined/PySyft/issues?q=is%3Aopen+is%3Aissue+label%3A%22d.+Beginner%22).
+[Labels -> beginner](https://github.com/OpenMined/PySyft/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner).
 
 
-This will filter out all tickets except for the Beginner tickets.
+This will filter out all tickets except for the `beginner` tickets.
 
 
 Click one of the tickets and you'll see something like this:
