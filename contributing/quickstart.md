@@ -30,14 +30,14 @@ We welcome all people willing to contribute of any skill set and level of experi
 - [PySyft](https://github.com/OpenMined/PySyft) - Python deep learning library
 - [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
 
-**Slack channels:** #sonar, #syft
+**Slack channels:** #team_sonar, #team_syft
 
 ### Homomorphic Encryption
 **Repositories:**
 - [PySyft](https://github.com/OpenMined/PySyft) - Python deep learning library
 - [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
 
-**Slack channels:** #syft
+**Slack channels:** #team_syft
 
 ### Blockchain
 **Repositories:**
@@ -45,7 +45,7 @@ We welcome all people willing to contribute of any skill set and level of experi
 - [PySonar](https://github.com/OpenMined/PySonar) - Python client to blockchain application (Sonar)
 - [sonar.js](NEEDS A LINK) - Node.js client to blockchain application (Sonar)
 
-**Slack channels:** #sonar
+**Slack channels:** #team_sonar
 
 ### Node.js Development
 **Repositories:**
@@ -53,7 +53,7 @@ We welcome all people willing to contribute of any skill set and level of experi
 - [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
 - [sonar.js](NEEDS A LINK) - Node.js client to blockchain application (Sonar)
 
-**Slack channels:** #sonar, #syft, #mine
+**Slack channels:** #team_sonar, #team_syft, #team_mine
 
 ### Python Development
 **Repositories:**
@@ -62,22 +62,22 @@ We welcome all people willing to contribute of any skill set and level of experi
 - [Capsule](https://github.com/OpenMined/Capsule) - Blockchain oracle for time released public/private key generation/interaction
 - [PyYASHE](https://github.com/OpenMined/PyYashe) - An experimental library for developing a high performance YASHE implementation
 
-**Slack channels:** #sonar, #syft, #capsule
+**Slack channels:** #team_sonar, #team_syft, #team_capsule
 
 ### React.js Development
 **Repositories:** Coming soon.
 
-**Slack channels:** #ui
+**Slack channels:** #team_ui
 
 ### DevOps
 **Repositories:** None
 
-**Slack channels:** #devops
+**Slack channels:** #team_devops
 
 ### Technical Writing
 **Repositories:** None
 
-**Slack channels:** #terminology, #process, #docs
+**Slack channels:** #terminology, #process, #team_docs
 
 ### UI Design
 User interface design is currently underway on SonarUI and MineUI - the user interfaces for data scientists and data hosts respectively. These are currently being discussed in the ui channel of Slack.
