@@ -22,25 +22,40 @@ This video covers the project as a whole including high level goals and the broa
 
 We welcome all people willing to contribute of any skill set and level of experience. The following is a list of consistently needed skillsets:
 
-#### Machine learning
+### Machine learning
 **Repositories:**
 - [PySonar](https://github.com/OpenMined/PySonar) - Python client to blockchain application (Sonar)
 - [sonar.js](NEEDS A LINK) - Node.js client to blockchain application (Sonar)
+- [Sonar](https://github.com/OpenMined/Sonar) - Python Eterheum blockchain implementation
 - [PySyft](https://github.com/OpenMined/PySyft) - Python deep learning library
 - [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
 
 **Slack channels:** #sonar, #syft
 
-#### Homomorphic Encryption
-FILL ME OUT
+### Homomorphic Encryption
+**Repositories:**
+- [PySyft](https://github.com/OpenMined/PySyft) - Python deep learning library
+- [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
 
-#### Blockchain
-FILL ME OUT
+**Slack channels:** #syft
 
-#### Node.js Development
-FILL ME OUT
+### Blockchain
+**Repositories:**
+- [Sonar](https://github.com/OpenMined/Sonar) - Python Eterheum blockchain implementation
+- [PySonar](https://github.com/OpenMined/PySonar) - Python client to blockchain application (Sonar)
+- [sonar.js](NEEDS A LINK) - Node.js client to blockchain application (Sonar)
 
-#### Python Development
+**Slack channels:** #sonar
+
+### Node.js Development
+**Repositories:**
+- [mine.js](https://github.com/OpenMined/mine.js) - Node.js implementation of a user's personal data store, calls Syft for training
+- [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
+- [sonar.js](NEEDS A LINK) - Node.js client to blockchain application (Sonar)
+
+**Slack channels:** #sonar, #syft, #mine
+
+### Python Development
 **Repositories:**
 - [PySonar](https://github.com/OpenMined/PySonar) - Python client to blockchain application (Sonar)
 - [PySyft](https://github.com/OpenMined/PySyft) - Python deep learning library
@@ -49,29 +64,35 @@ FILL ME OUT
 
 **Slack channels:** #sonar, #syft, #capsule
 
-#### React.js Development
-FILL ME OUT
+### React.js Development
+**Repositories:** Coming soon.
 
-#### DevOps
-FILL ME OUT
+**Slack channels:** #ui
 
-#### Technical Writing
-FILL ME OUT
+### DevOps
+**Repositories:** None
 
-#### UI Design
+**Slack channels:** #devops
+
+### Technical Writing
+**Repositories:** None
+
+**Slack channels:** #terminology, #process, #docs
+
+### UI Design
 User interface design is currently underway on SonarUI and MineUI - the user interfaces for data scientists and data hosts respectively. These are currently being discussed in the ui channel of Slack.
 
-#### UX Testing
+### UX Testing
 We need lots of testers. Currently this work is not related to any user interfaces, as those have not yet been designed or developed. We will have more need for this in the **very** near future, however. Feel free to reach out in the ux channel of Slack.
 
-#### Legal and Marketing
+### Legal and Marketing
 For any of these topics - reach out to @trask in Slack. The needs of each are varied... here's a few examples:
 
 There's a plethora of legal issues that come with a person taking back ownership of their information. How is ownership of data is transferred or dissolved after death? How tightly can we implement with third-party data providers from a legal perspective? What does the future of data ownership look like from a legal perspective?
 
 We have a highly capable set of creative people working on the brand of OpenMined. How do we get this brand to be viewed positively by developers? How would a rollout to the general public work? How much time should an open source project spend on marketing itself?
 
-#### Anything else?
+### Anything else?
 We'd love to have you! The only requirement for joining the OpenMined contributor network is a desire to follow the core values and vision (NEEDS A LINK) of the project. Feel free to reach out in the general channel on Slack and someone will be sure to point you in the right direction!
 
 ## Step 4: Syft Installation + Homomorphic Encryption Demo
