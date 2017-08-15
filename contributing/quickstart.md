@@ -18,29 +18,88 @@ This video covers the project as a whole including high level goals and the broa
 
 - [OpenMined Introduction Slides](https://docs.google.com/presentation/d/1Tm7jh3pChks0ObJNb7x2ZZhhVOJhmCVN2KDPWyZohQU/edit)
 
-## Step 3: Syft Installation + Homomorphic Encryption Demo
+## Step 3: Figure out where you might want to contribute
+
+The following is a list of projects currently being worked on, as well as the expertise needed. Don't have that particular skillset but still want to dive in and start learning? **We welcome that!** Be sure to message the people listed below on Slack for more information about how you can get started on that project.
+
+#### Sonar
+**Primary contacts:** @trask, @anoff  
+**Skills needed:** Python, Machine Learning, Javascript (Node.js), Blockchain, Ethereum  
+**Repositories:** [Blockchain](https://github.com/OpenMined/Sonar), [Client](https://github.com/OpenMined/PySonar)
+
+## Step 3: Figure out where you want to contribute!
+
+We welcome all people willing to contribute of any skill set and level of experience. The following is a list of consistently needed skillsets:
+
+#### Machine learning
+**Repositories:**
+- [PySonar](https://github.com/OpenMined/PySonar) - Python client to blockchain application (Sonar)
+- [sonar.js](NEEDS A LINK) - Node.js client to blockchain application (Sonar)
+- [PySyft](https://github.com/OpenMined/PySyft) - Python deep learning library
+- [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
+
+**Slack channels:** #sonar, #syft
+
+#### Homomorphic Encryption
+FILL ME OUT
+
+#### Blockchain
+FILL ME OUT
+
+#### Node.js Development
+FILL ME OUT
+
+#### Python Development
+FILL ME OUT
+
+#### React.js Development
+FILL ME OUT
+
+#### DevOps
+FILL ME OUT
+
+#### Technical Writing
+FILL ME OUT
+
+#### UI Design
+User interface design is currently underway on SonarUI and MineUI - the user interfaces for data scientists and data hosts respectively. These are currently being discussed in the ui channel of Slack.
+
+#### UX Testing
+We need lots of testers. Currently this work is not related to any user interfaces, as those have not yet been designed or developed. We will have more need for this in the **very** near future, however. Feel free to reach out in the ux channel of Slack.
+
+#### Legal and Marketing
+For any of these topics - reach out to @trask in Slack. The needs of each are varied... here's a few examples:
+
+There's a plethora of legal issues that come with a person taking back ownership of their information. How is ownership of data is transferred or dissolved after death? How tightly can we implement with third-party data providers from a legal perspective? What does the future of data ownership look like from a legal perspective?
+
+We have a highly capable set of creative people working on the brand of OpenMined. How do we get this brand to be viewed positively by developers? How would a rollout to the general public work? How much time should an open source project spend on marketing itself?
+
+#### Anything else?
+We'd love to have you! The only requirement for joining the OpenMined contributor network is a desire to follow the core values and vision (NEEDS A LINK) of the project. Feel free to reach out in the general channel on Slack and someone will be sure to point you in the right direction!
+
+## Step 4: Syft Installation + Homomorphic Encryption Demo
 
 Once you've got a general understanding of the project, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
 
 - [First, install PySyft](https://github.com/OpenMined/PySyft/)
 - [Second, test this notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
 
-## Step 4: Homomorphically Encrypted Linear Classifier Demo
+## Step 5: Homomorphically Encrypted Linear Classifier Demo
 
 [Complete this Notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Encrypted%20Linear%20Classification.ipynb)
 
-## Step 5: Install Sonar, PySonar, and Demo
+## Step 6: Install Sonar, PySonar, and Demo
 
 - [Install Sonar](https://github.com/OpenMined/Sonar)
 - [Install PySonar](https://github.com/OpenMined/PySonar)
 - Demo: Encrypted Neural Network on Test Ethereum Blockchain
   - https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb
 
-## Step 6: Install Zenhub Plugin
+## Step 7: Install Zenhub Plugin
 
 In order to see our documentation and issues in all their full glory, you'll want to install this browser plugin for Zenhub. Just navigate to http://zenhub.com and click the "Add ZenHub to GitHub" button.
 
-## Step 7: Congratulations You're Ready!
+## Step 8: Congratulations You're Ready!
 
 You now have the basics of the OpenMined ecosystem up and running and are ready to take on Beginner level projects (Issues). We've gone out of our way to make sure that there are a plethora of mini-projects (Issues) that are 100% entry level. The way to find one is to pick any project and click the "Issues" Tab at the top. This should take you to a place that looks like this.
 
