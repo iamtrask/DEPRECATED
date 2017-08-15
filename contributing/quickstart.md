@@ -18,15 +18,6 @@ This video covers the project as a whole including high level goals and the broa
 
 - [OpenMined Introduction Slides](https://docs.google.com/presentation/d/1Tm7jh3pChks0ObJNb7x2ZZhhVOJhmCVN2KDPWyZohQU/edit)
 
-## Step 3: Figure out where you might want to contribute
-
-The following is a list of projects currently being worked on, as well as the expertise needed. Don't have that particular skillset but still want to dive in and start learning? **We welcome that!** Be sure to message the people listed below on Slack for more information about how you can get started on that project.
-
-#### Sonar
-**Primary contacts:** @trask, @anoff  
-**Skills needed:** Python, Machine Learning, Javascript (Node.js), Blockchain, Ethereum  
-**Repositories:** [Blockchain](https://github.com/OpenMined/Sonar), [Client](https://github.com/OpenMined/PySonar)
-
 ## Step 3: Figure out where you want to contribute!
 
 We welcome all people willing to contribute of any skill set and level of experience. The following is a list of consistently needed skillsets:
