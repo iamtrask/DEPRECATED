@@ -53,10 +53,10 @@ FILL ME OUT
 **Repositories:**
 - [PySonar](https://github.com/OpenMined/PySonar) - Python client to blockchain application (Sonar)
 - [PySyft](https://github.com/OpenMined/PySyft) - Python deep learning library
-- [Capsule](https://github.com/OpenMined/Capsule) - Blockchain oracle for time released public/private key generation/interaction 
-- [PyYASHE](https://github.com/OpenMined/PyYashe) - An experimental library for developing a high performance YASHE implementation 
+- [Capsule](https://github.com/OpenMined/Capsule) - Blockchain oracle for time released public/private key generation/interaction
+- [PyYASHE](https://github.com/OpenMined/PyYashe) - An experimental library for developing a high performance YASHE implementation
 
-**Slack channels:** #sonar, #syft #capsule
+**Slack channels:** #sonar, #syft, #capsule
 
 #### React.js Development
 FILL ME OUT
