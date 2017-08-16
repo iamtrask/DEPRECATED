@@ -31,6 +31,10 @@ A: The blockchain technology is currently used to mediate between _Farmers_ and 
 
 A: Early on the `syft` library will come with several basic models. Most available libraries like `scikitlearn` or `tensorflow` do not have _homomorphic encryption_ capabilities. Therefore they do not work with OpenMined out of the box. We will focus on bringing more ways to build your models later on during the development.
 
+> Q: Isn't homorphic encryption slow?
+
+A: If we tightly integrate homomorphic encryption with what you’re trying to with machine learning and stay focused on the end use case, things look pretty good performance-wise. If you take default Tensorflow models and slap homomorphic encryption on it... things won’t look so good 🙂
+
 ## My question is not answered
 
 If you have a new question feel free to open an issue in this repository asking us to clarify or come visit us in slack.
