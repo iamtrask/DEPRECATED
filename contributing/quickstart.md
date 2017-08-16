@@ -43,7 +43,7 @@ We welcome all people willing to contribute of any skill set and level of experi
 **Repositories:**
 - [Sonar](https://github.com/OpenMined/Sonar) - Python Ethereum blockchain implementation
 - [PySonar](https://github.com/OpenMined/PySonar) - Python client to blockchain application (Sonar)
-- [sonar.js (Link pending) - Node.js client to blockchain application (Sonar)
+- sonar.js (Link pending) - Node.js client to blockchain application (Sonar)
 
 **Slack channels:** #team_sonar
 
@@ -51,7 +51,7 @@ We welcome all people willing to contribute of any skill set and level of experi
 **Repositories:**
 - [mine.js](https://github.com/OpenMined/mine.js) - Node.js implementation of a user's personal data store, calls Syft for training
 - [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
-- [sonar.js (Link pending) - Node.js client to blockchain application (Sonar)
+- sonar.js (Link pending) - Node.js client to blockchain application (Sonar)
 
 **Slack channels:** #team_sonar, #team_syft, #team_mine
 
@@ -93,7 +93,7 @@ There's a plethora of legal issues that come with a person taking back ownership
 We have a highly capable set of creative people working on the brand of OpenMined. How do we get this brand to be viewed positively by developers? How would a rollout to the general public work? How much time should an open source project spend on marketing itself?
 
 ### Anything else?
-We'd love to have you! The only requirement for joining the OpenMined contributor network is a desire to follow the core values and vision of the project. Feel free to reach out in the #general, #beginner, and #questions channel on Slack and someone will be sure to point you in the right direction!
+We'd love to have you! The only requirement for joining the OpenMined contributor network is a desire to follow the core values and vision of the project. Feel free to reach out in the #general-discussion, #beginner, and #questions channel on Slack and someone will be sure to point you in the right direction!
 
 ## Step 4: Syft Installation + Homomorphic Encryption Demo
 
