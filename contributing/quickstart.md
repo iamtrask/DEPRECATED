@@ -17,6 +17,7 @@ This video covers the platform as a whole including high level goals and the bro
 [![Watch the video](https://github.com/OpenMined/Docs/raw/master/img/OpenMinedIntro.png)](https://www.youtube.com/watch?v=sXFmKquiVnk)
 
 - [OpenMined Introduction Slides](https://docs.google.com/presentation/d/1Tm7jh3pChks0ObJNb7x2ZZhhVOJhmCVN2KDPWyZohQU/edit)
+- [Frequently Asked Questions](../faq.md)
 
 ## Step 3: Syft Installation + Homomorphic Encryption Demo
 
