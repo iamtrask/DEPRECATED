@@ -64,7 +64,7 @@ The AC for this milestone is defined in form of work instructions necessary for 
 * Improve security by trusted component with key ownership
 * Tackle differential privacy issue by shielding individual gradients from the data scientist
 
-[Helium Roadmap](https://github.com/OpenMined/Docs/roadmaps/helium.md)
+[Helium Roadmap](https://github.com/OpenMined/Docs/blob/docs/roadmaps--breaking-out-by-milestone/roadmaps/helium.md)
 
 ### Lithium 🔋
 
@@ -75,7 +75,7 @@ The AC for this milestone is defined in form of work instructions necessary for 
 * support `diabetes` and personal `twitter` data in the mine/Sonar
 * basic NLP support in `pySonar`
 
-[Helium Roadmap](https://github.com/OpenMined/Docs/roadmaps/lithium.md)
+[Helium Roadmap](https://github.com/OpenMined/Docs/blob/docs/roadmaps--breaking-out-by-milestone/roadmaps/lithium.md)
 
 
 ## Past
