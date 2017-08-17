@@ -83,6 +83,8 @@ _Your code should tell the story of what you are doing; your comments should tel
 
 Unless it is specific to development of a repo, put any documentation in the [Docs](https://github.com/OpenMined/Docs) repo. You are in that now!
 
+For repository specific documentation please stick to the [Readme template](readme_template.md). All repos following this standard set of _required topics_ covered in the readme enable an aligned developer experience when browsing multiple repositories.
+
 ## Inspiration
 https://github.com/oss-generic/process/blob/master/docs/FormatsAndConventions.md
 https://github.com/nodejs/node/blob/master/CONTRIBUTING.md
