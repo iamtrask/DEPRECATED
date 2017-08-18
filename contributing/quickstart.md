@@ -18,7 +18,33 @@ This video covers the project as a whole including high level goals and the broa
 
 - [OpenMined Introduction Slides](https://docs.google.com/presentation/d/1Tm7jh3pChks0ObJNb7x2ZZhhVOJhmCVN2KDPWyZohQU/edit)
 
-## Step 3: Figure out where you want to contribute!
+### Next Steps
+
+Great!  You've made it this far.  Steps 3 - 6 get a little technical.  If you're not a developer or don't want to get into the weeds for now, then head down to Step 7.  There we'll discuss how you can get started contributing to OpenMined based on your interests and skills!
+
+## Step 3: Syft Installation + Homomorphic Encryption Demo
+
+Once you've got a general understanding of the project, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
+
+- [First, install PySyft](https://github.com/OpenMined/PySyft/)
+- [Second, test this notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
+
+## Step 4: Homomorphically Encrypted Linear Classifier Demo
+
+[Complete this Notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Encrypted%20Linear%20Classification.ipynb)
+
+## Step 5: Install Sonar, PySonar, and Demo
+
+- [Install Sonar](https://github.com/OpenMined/Sonar)
+- [Install PySonar](https://github.com/OpenMined/PySonar)
+- Demo: Encrypted Neural Network on Test Ethereum Blockchain
+  - https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb
+
+## Step 6: Install Zenhub Plugin
+
+In order to see our documentation and issues in all their full glory, you'll want to install this browser plugin for Zenhub. Just navigate to http://zenhub.com and click the "Add ZenHub to GitHub" button.
+
+## Step 7: Figure out where you want to contribute!
 
 We welcome all people willing to contribute of any skill set and level of experience. The following is a list of consistently needed skillsets:
 
@@ -94,28 +120,6 @@ We have a highly capable set of creative people working on the brand of OpenMine
 
 ### Anything else?
 We'd love to have you! The only requirement for joining the OpenMined contributor network is a desire to follow the core values and vision of the project. Feel free to reach out in the #general-discussion, #beginner, and #questions channel on Slack and someone will be sure to point you in the right direction!
-
-## Step 4: Syft Installation + Homomorphic Encryption Demo
-
-Once you've got a general understanding of the project, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
-
-- [First, install PySyft](https://github.com/OpenMined/PySyft/)
-- [Second, test this notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
-
-## Step 5: Homomorphically Encrypted Linear Classifier Demo
-
-[Complete this Notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Encrypted%20Linear%20Classification.ipynb)
-
-## Step 6: Install Sonar, PySonar, and Demo
-
-- [Install Sonar](https://github.com/OpenMined/Sonar)
-- [Install PySonar](https://github.com/OpenMined/PySonar)
-- Demo: Encrypted Neural Network on Test Ethereum Blockchain
-  - https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb
-
-## Step 7: Install Zenhub Plugin
-
-In order to see our documentation and issues in all their full glory, you'll want to install this browser plugin for Zenhub. Just navigate to http://zenhub.com and click the "Add ZenHub to GitHub" button.
 
 ## Step 8: Congratulations You're Ready!
 
