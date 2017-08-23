@@ -2,7 +2,7 @@
 
 > all kinds of 📚 for OpenMined
 
-This repository should provide helpful links to all available documentation.
+OpenMined is an unincorporated, volunteer-only open source project to provide federated machine learning using blockchain technology. If you're looking for an ICO, this probably isn't the project for you. This repository should provide helpful links to all available documentation.
 
 <!-- TOC depthFrom:2 -->
 
