@@ -2,15 +2,14 @@
 
 > all kinds of 📚 for OpenMined
 
-This top level project should provide helpful links to all available documentation.
+This repository should provide helpful links to all available documentation.
 
 <!-- TOC depthFrom:2 -->
 
 - [Overview](#overview)
+    - [Slides](#slides)
     - [Glossary](#glossary)
-    - [Overview](#overview)
-    - [Intro Slides](#slides)
-    - [Projects](#projects)
+    - [Components](#components)
     - [Repositories](#repositories)
     - [Workflow](#workflow)
     - [Incentives](#incentives)
@@ -45,7 +44,7 @@ This top level project should provide helpful links to all available documentati
 
 - **Bounty** - The amount of money a Data Scientist puts forth into training a Model which is later distributed amongst the mines involved in training the Model.
 
-### Projects
+### Components
 
 ![components](img/components-graphic.png)
 
@@ -66,7 +65,7 @@ PGP key generator, also responsible for delivering the trained and decrypted dat
 Blockchain contracts, holds all IPFS addresses for neural networks
 
 - **PySonar** _(Python)_  
-Python data science library for training models over the system
+Python data science library for training models over the platform
 
 - **Sonar UI** _(React.js)_  
 for creating campaigns and monitoring campaign progress/spend
@@ -90,7 +89,7 @@ Converting external data sources into OpenMined schemas
 Scripts/API that exposes public mine/sonar activity for analysis.
 
 ### Workflow
-The OpenMined system starts with a Data Scientist creating a request to Sonar in order to begin a mining campaign.  The Data Scientist defines some basic parameters:
+The OpenMined platform starts with a Data Scientist creating a request to Sonar in order to begin a mining campaign.  The Data Scientist defines some basic parameters:
 
 **Bounty**  
 The amount of money the Data Scientist is willing to spend in order the train their model

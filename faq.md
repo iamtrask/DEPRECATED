@@ -2,7 +2,7 @@
 
 Please make sure to check the [Glossary and workflow](readme.md) before going through these questions.
 
-## Ecosystem
+## Platform
 
 > Q: How do people create their **own Mine**?
 
@@ -19,7 +19,7 @@ A: All data schemas will be publicly available and the before mentioned _adapter
 
 > Q: What is the current development state?
 
-A: Currently the [demo](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) shows the overall workflow of OpenMined. In addition all the functional steps are implemented using available open source libraries or open code from our side. The next step for OpenMined will be a large(r) scale proof of concept. While running several mines in the system we will identify several issues regarding performance, usability and overall system design. Those will be tackled in a second development phase.
+A: Currently the [demo](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) shows the overall workflow of OpenMined. In addition all the functional steps are implemented using available open source libraries or open code from our side. The next step for OpenMined will be a large(r) scale proof of concept. While running several mines on the platform we will identify several issues regarding performance, usability and overall platform design. Those will be tackled in a second development phase.
 
 ## Technology
 
@@ -30,6 +30,10 @@ A: The blockchain technology is currently used to mediate between _Farmers_ and 
 > Q: How can a data scientist design his **model**?
 
 A: Early on the `syft` library will come with several basic models. Most available libraries like `scikitlearn` or `tensorflow` do not have _homomorphic encryption_ capabilities. Therefore they do not work with OpenMined out of the box. We will focus on bringing more ways to build your models later on during the development.
+
+> Q: Isn't homorphic encryption slow?
+
+A: If we tightly integrate homomorphic encryption with what you’re trying to with machine learning and stay focused on the end use case, things look pretty good performance-wise. If you take default Tensorflow models and slap homomorphic encryption on it... things won’t look so good 🙂
 
 ## My question is not answered
 

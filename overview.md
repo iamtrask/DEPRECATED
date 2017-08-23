@@ -1,4 +1,4 @@
-# Project Overview
+# Platform Overview
 
 Hi! Welcome to the Contributor Quickstart Guide! The purpose of this tutorial is to give you (all in one place!):
 
@@ -8,7 +8,7 @@ Hi! Welcome to the Contributor Quickstart Guide! The purpose of this tutorial is
 - [Workflow:](#workflow) how we work together as a team!
 - [Getting Started:](#start) the best places to start contributing
 
-assuming only that you have knowledge of basic Python programming one of the many fields of expertise this project needs. Let's get started!
+assuming only that you have knowledge of basic Python programming one of the many fields of expertise this platform needs. Let's get started!
 
 ## Vision
 
