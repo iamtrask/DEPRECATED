@@ -34,7 +34,7 @@ For the most part, we follow [git flow](http://nvie.com/posts/a-successful-git-b
 
         **Example** `feature/he--key-rotation-add` or `chore/webpack--update-to-2`
 
-- `master` (and not `develop`) on all repos stay protected, branch from there
+- `master` on all repos stay protected, branch from there
 
 
 ### Step 3: Do work and commit
