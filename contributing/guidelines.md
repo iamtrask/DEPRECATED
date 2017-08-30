@@ -34,7 +34,7 @@ For the most part, we follow [git flow](http://nvie.com/posts/a-successful-git-b
 
         **Example** `feature/he--key-rotation-add` or `chore/webpack--update-to-2`
 
-- `master` and `develop` on all repos stay protected, branch from there
+- `master` on all repos stay protected, branch from there
 
 
 ### Step 3: Do work and commit
@@ -45,7 +45,7 @@ For the most part, we follow [git flow](http://nvie.com/posts/a-successful-git-b
 - [Commitizen](https://github.com/commitizen/cz-cli) is a wonderful tool that helps keep commits organized. If you are frequently contributing, we highly recommend using it.
 
 ### Step 4: Pull Request
-- Open a pull request against `develop` and request a review. All code must meet [code standards](#code), pass integration tests, and provide a meaningful contribution.
+- Open a pull request against `master` and request a review. All code must meet [code standards](#code), pass integration tests, and provide a meaningful contribution.
 - Tag the issues that the pull request addresses by including a GitHub keyword in the description (e.g. `Closes #1`)
 - Be respectful to the reviewer! We are all trying to improve OpenMined 📈
 - Once your Pull Request has been accepted, you are officially a contributor! 🔥💥🎆🎉
