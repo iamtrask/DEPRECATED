@@ -15,7 +15,7 @@ OpenMined is an unincorporated, volunteer-only open source project to provide fe
     - [Incentives](#incentives)
 - [Sequential view](#sequential-view)
 - [Contributing](#contributing)
-- [Website](#website)
+- [Website & Official Accounts](#website--official-accounts)
 - [Meetings](#meetings)
 - [License](#license)
 
@@ -136,9 +136,16 @@ For first timers go to the [quick start guide](./contributing/quickstart.md)
 
 If you are ready to dive in an start contributing, checkout our [guidelines](./contributing/guidelines.md) beforehand.
 
-## Website
+## Website & Official Accounts
 
 The official **OpenMined** website is available at [openmined.org](http://openmined.org).
+
+**OpenMined** organizational accounts:
+
+* Continuous Integration: [Travis CI](https://travis-ci.org/OpenMined), [CircleCI](https://circleci.com/gh/OpenMined)
+* Code Coverage: [Codecov](https://codecov.io/gh/OpenMined)
+* Sourcecode: [Github](https://github.com/OpenMined)
+* Artifact registries: [NPM](https://www.npmjs.com/org/openmined), [Dockerhub](https://hub.docker.com/u/openmined/dashboard/)
 
 ## Meetings
 
