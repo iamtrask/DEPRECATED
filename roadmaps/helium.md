@@ -14,7 +14,7 @@ For the Helium release, we would like to implement the following pieces of end u
 * [Autodoc Generation for All Repos](https://github.com/OpenMined/Docs/issues/55)
 
 (Mine)
-* [Arbitrary Data Demo](https://github.com/OpenMined/Docs/roadmaps/helium/mine_arbitrary_data_demo.md)
+* [Arbitrary Data Demo](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/mine_arbitrary_data_demo.md)
 
 (Mine/Adapter)
 * Twitter Adapter Demo
