@@ -15,6 +15,8 @@ For the Helium release, we would like to implement the following pieces of end u
 
 (Mine)
 * [Arbitrary Data Demo](https://github.com/OpenMined/Docs/roadmaps/helium/mine_arbitrary_data_demo.md)
+
+(Mine/Adapter)
 * Twitter Adapter Demo
 
 (Capsule)
