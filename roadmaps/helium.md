@@ -39,23 +39,23 @@ For the Helium release, we would like to implement the following pieces of end u
 
 
 (PySyft)
-* [YASHE based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
-* [YASHE based Logistic Regression Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* YASHE based Tensor Demo
+* YASHE based Logistic Regression Demo
 
-* [BV based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
-* [BV based Logistic Regression Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* BV based Tensor Demo
+* BV based Logistic Regression Demo
 
-* [Aono based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
-* [Aono based Linear Model Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* Aono based Tensor Demo
+* Aono based Linear Model Demo
 
-* [Symmetric (DGHV) based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
-* [Symmetric (DGHV) based Linear Model Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* Symmetric (DGHV) based Tensor Demo
+* Symmetric (DGHV) based Linear Model Demo
 
-* [Functional Encryption based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
-* [Encrypted Word2vec Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* Functional Encryption based Tensor Demo
+* Encrypted Word2vec Demo
 
-* [Multi-party Computation based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
-* [Multi-Party Computation based Logistic Regression Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* Multi-party Computation based Tensor Demo
+* Multi-Party Computation based Logistic Regression Demo
 
-* [Initial Modularized Layers Demo (Linear, Embedding, Softmax, Hierarchical Softmax, ReLU, Sigmoid, Tanh, and Sparsemax) )](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
-* [Encrypted Autograd Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* Initial Modularized Layers Demo (Linear, Embedding, Softmax, Hierarchical Softmax, ReLU, Sigmoid, Tanh, and Sparsemax)
+* Encrypted Autograd Demo
