@@ -1,6 +1,6 @@
 # Roadmap
 
-> Features of the whole OpenMined **platform** bundled into milestones 🛣 
+> Features of the whole OpenMined **platform** bundled into milestones 🛣
 
 <!-- TOC depthFrom:2 -->
 
@@ -64,16 +64,7 @@ The AC for this milestone is defined in form of work instructions necessary for 
 * Improve security by trusted component with key ownership
 * Tackle differential privacy issue by shielding individual gradients from the data scientist
 
-**Assumptions:**
-* no changes in mine or Sonar
-
-**Acceptance Criteria:**
-1. [OM/capsule](https://github.com/OpenMined/Capsule) is dockerized and can be started using `docker run` (platform wide description updated respectively)
-1. `diabetes usecase` according to **hydrogen** is (still) operational
-
-**Involved components & issues:**
-* [OM/capsule](https://github.com/OpenMined/capsule/issues?q=is%3Aissue+milestone%3AHelium)
-* [OM/PySonar](https://github.com/OpenMined/PySonar/issues?utf8=%E2%9C%93&q=is%3Aissue%20milestone%3AHelium)
+[Helium Roadmap](https://github.com/OpenMined/Docs/blob/docs/roadmaps--breaking-out-by-milestone/roadmaps/helium.md)
 
 ### Lithium 🔋
 
@@ -84,17 +75,8 @@ The AC for this milestone is defined in form of work instructions necessary for 
 * support `diabetes` and personal `twitter` data in the mine/Sonar
 * basic NLP support in `pySonar`
 
-**Assumptions:**
-* `pySonar` features might be tailored towards this use case
-* a user in the network might not own twitter data (diabetes dummy comes with the mine)
-* there are no dynamic rules in the training priority
+[Helium Roadmap](https://github.com/OpenMined/Docs/blob/docs/roadmaps--breaking-out-by-milestone/roadmaps/lithium.md)
 
-**Acceptance Criteria:**
-_MISSING_
-
-**Involved components & issues:**
-* [OM/mine](https://github.com/OpenMined/mine.js/issues?q=is%3Aissue+milestone%3ALithium)
-* [OM/PySonar](https://github.com/OpenMined/PySonar/issues?utf8=%E2%9C%93&q=is%3Aissue%20milestone%3ALithium)
 
 ## Past
 
