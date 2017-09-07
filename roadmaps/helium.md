@@ -20,8 +20,8 @@ For the Helium release, we would like to implement the following pieces of end u
 * Twitter Adapter Demo
 
 (Capsule)
-* Capsule Hosted Black Box Demo Demo
-* Capsule Key Rotation Demo Demo
+* Capsule Hosted Black Box Demo
+* Capsule Key Rotation Demo
 
 (Sonar/PySonar)
 * Hydrogen Demo on Tendermint
