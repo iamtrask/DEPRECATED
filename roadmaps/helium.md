@@ -6,12 +6,15 @@ For the Helium release, we would like to implement the following pieces of end u
 
 **Helium Projects:**
 
+(Testing)
+* Unit Tests for All Notebooks
+
 (Docs and Marketing)
 * [Contributor Acquisition Improvements ](https://github.com/OpenMined/Docs/roadmaps/helium/docs_contributor_quickstart_improvements.md)
 * [Autodoc Generation for All Repos](https://github.com/OpenMined/Docs/issues/55)
 
 (Mine)
-* Arbitrary Data Demo
+* [Arbitrary Data Demo](https://github.com/OpenMined/Docs/roadmaps/helium/mine_arbitrary_data_demo.md)
 * Twitter Adapter Demo
 
 (Capsule)
