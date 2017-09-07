@@ -6,9 +6,9 @@ For the Helium release, we would like to implement the following pieces of end u
 
 **Helium Demos:**
 
-(Docs)
-* [Contributor Quickstart Improvements](https://github.com/OpenMined/Docs/roadmaps/helium/arbitrary_data_demo.md)
-* Autodoc Generation for All Repos
+(Docs and Marketing)
+* [Contributor Acquisition Improvements ](https://github.com/OpenMined/Docs/roadmaps/helium/docs_contributor_quickstart_improvements.md)
+* [Autodoc Generation for All Repos](https://github.com/OpenMined/Docs/issues/55)
 
 (Mine)
 * Arbitrary Data Demo
