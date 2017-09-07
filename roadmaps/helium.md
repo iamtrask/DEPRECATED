@@ -4,7 +4,7 @@
 
 For the Helium release, we would like to implement the following pieces of end user functionality (Demos).
 
-**Helium Demos:**
+**Helium Projects:**
 
 (Docs and Marketing)
 * [Contributor Acquisition Improvements ](https://github.com/OpenMined/Docs/roadmaps/helium/docs_contributor_quickstart_improvements.md)
