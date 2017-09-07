@@ -2,26 +2,60 @@
 
 **Theme:** Full Local Linear MVP
 
+For the Helium release, we would like to implement the following pieces of end user functionality (Demos).
+
 **Helium Demos:**
-* [Arbitrary Data Demo](https://github.com/OpenMined/Docs/roadmaps/helium/arbitrary_data_demo.md)
-* [Twitter Adapter Demo](https://github.com/OpenMined/Docs/roadmaps/helium/twitter_adapter_demo.md)
-* [Capsule Hosted Black Box Demo Demo](https://github.com/OpenMined/Docs/roadmaps/helium/hosted_capsule_demo.md)
-* [Capsule Key Rotation Demo Demo](https://github.com/OpenMined/Docs/roadmaps/helium/key_rotation_capsule_demo.md)
+
+(Docs)
+* [Contributor Quickstart Improvements](https://github.com/OpenMined/Docs/roadmaps/helium/arbitrary_data_demo.md)
+* Autodoc Generation for All Repos
+
+(Mine)
+* Arbitrary Data Demo
+* Twitter Adapter Demo
+
+(Capsule)
+* Capsule Hosted Black Box Demo Demo
+* Capsule Key Rotation Demo Demo
+
+(Sonar/PySonar)
+* Hydrogen Demo on Tendermint
+
+* Model Training as a Service Demo (PyTorch)
+
+* Model Training as a Service Demo (Tensorflow)
+
+* Model Training as a Service Demo (Keras)
+
+* Model Training as a Service Demo (DyNet)
+
+* PyTorch - Encrypted Federated Learning Template (Paillier for Gradients) Demo
+
+* Tensorflow - Encrypted Federated Learning Template (Paillier for Gradients) Demo
+
+* DyNet - Encrypted Federated Learning Template (Paillier for Gradients) Demo
+
+* Keras - Encrypted Federated Learning Template (Paillier for Gradients) Demo
+
+
+(PySyft)
+* [YASHE based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
 * [YASHE based Logistic Regression Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
 
+* [BV based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* [BV based Logistic Regression Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
 
-**Goals:**
-* Introduce `capsule` component
-* Improve security by trusted component with key ownership
-* Tackle differential privacy issue by shielding individual gradients from the data scientist
+* [Aono based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* [Aono based Linear Model Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
 
-**Assumptions:**
-* no changes in mine or Sonar
+* [Symmetric (DGHV) based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* [Symmetric (DGHV) based Linear Model Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
 
-**Acceptance Criteria:**
-1. [OM/capsule](https://github.com/OpenMined/Capsule) is dockerized and can be started using `docker run` (platform wide description updated respectively)
-1. `diabetes usecase` according to **hydrogen** is (still) operational
+* [Functional Encryption based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* [Encrypted Word2vec Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
 
-**Involved components & issues:**
-* [OM/capsule](https://github.com/OpenMined/capsule/issues?q=is%3Aissue+milestone%3AHelium)
-* [OM/PySonar](https://github.com/OpenMined/PySonar/issues?utf8=%E2%9C%93&q=is%3Aissue%20milestone%3AHelium)
+* [Multi-party Computation based Tensor Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* [Multi-Party Computation based Logistic Regression Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+
+* [Initial Modularized Layers Demo (Linear, Embedding, Softmax, Hierarchical Softmax, ReLU, Sigmoid, Tanh, and Sparsemax) )](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
+* [Encrypted Autograd Demo](https://github.com/OpenMined/Docs/roadmaps/helium/YASHE_logistic_demo.md)
