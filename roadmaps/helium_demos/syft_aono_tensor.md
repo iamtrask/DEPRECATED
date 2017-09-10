@@ -14,4 +14,4 @@
 
 ### Part 3: Acceptance Criteria
 
-[PySyft: Epic - Aono Tensor Demo](https://github.com/OpenMined/PySyft/issues/229)
+[PySyft: Epic - Aono Tensor Demo](https://github.com/OpenMined/PySyft/issues/230)
