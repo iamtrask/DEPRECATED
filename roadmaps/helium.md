@@ -39,10 +39,10 @@ For the Helium release, we would like to implement the following pieces of end u
 * [YASHE based Tensor Demo](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/syft_yashe_tensor.md)
 * YASHE based Logistic Regression Demo
 
-* BV based Tensor Demo
+* [BV based Tensor Demo](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/syft_bv_tensor.md)
 * BV based Logistic Regression Demo
 
-* Aono based Tensor Demo
+* [Aono based Tensor Demo](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/syft_aono_tensor.md)
 * Aono based Linear Model Demo
 
 * Symmetric (DGHV) based Tensor Demo
