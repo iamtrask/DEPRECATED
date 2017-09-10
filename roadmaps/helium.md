@@ -36,7 +36,7 @@ For the Helium release, we would like to implement the following pieces of end u
 
 
 (PySyft)
-* YASHE based Tensor Demo
+* [YASHE based Tensor Demo](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/syft_yashe_tensor.md)
 * YASHE based Logistic Regression Demo
 
 * BV based Tensor Demo
