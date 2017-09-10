@@ -32,7 +32,7 @@ For the Helium release, we would like to implement the following pieces of end u
 
 * [OpenMined Grid Demo - Keras](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/sonar_om_grid_keras.md)
 
-* Model Training as a Service Demo (DyNet)
+* [OpenMined Grid Demo - Dynet](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/sonar_om_grid_dynet.md)
 
 * PyTorch - Encrypted Federated Learning Template (Paillier for Gradients) Demo
 
