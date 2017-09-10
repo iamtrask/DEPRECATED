@@ -34,14 +34,6 @@ For the Helium release, we would like to implement the following pieces of end u
 
 * [OpenMined Grid Demo - Dynet](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/sonar_om_grid_dynet.md)
 
-* PyTorch - Encrypted Federated Learning Template (Paillier for Gradients) Demo
-
-* Tensorflow - Encrypted Federated Learning Template (Paillier for Gradients) Demo
-
-* DyNet - Encrypted Federated Learning Template (Paillier for Gradients) Demo
-
-* Keras - Encrypted Federated Learning Template (Paillier for Gradients) Demo
-
 
 (PySyft)
 * YASHE based Tensor Demo
