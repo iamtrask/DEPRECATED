@@ -26,7 +26,7 @@ For the Helium release, we would like to implement the following pieces of end u
 (Sonar/PySonar)
 * [Hydrogen Demo on Tendermint](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/sonar_hydrogen_demo_on_tendermint.md)
 
-* Model Training as a Service Demo (PyTorch)
+* [OpenMined Grid Demo - PyTorch](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium_demos/sonar_om_grid_pytorch.md)
 
 * Model Training as a Service Demo (Tensorflow)
 
