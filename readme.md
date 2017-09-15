@@ -108,8 +108,7 @@ A claim to the initial accuracy of the default model evaluated on a validation d
 The desired accuracy a dataset should attain once it has been trained by mines, evaluated on the same validation dataset owned by Data Scientist.
 
 **Algorithm (optional)**  
-Which of the algorithms in Syft the Data Scientist would like to use, optionally including an initial
-weight position (in case Data Scientist wants to start the campaign with a model from a different
+A model in Syft chosen by the Data Scientist with the option of defining initial weight positions (in case Data Scientist wants to start the campaign with a model from a different
 campaign).
 
 A neural network is generated from this campaign and placed on the Sonar blockchain.  Sonar then communicates with Capsule which generates a public key and a private key (for Homomorphic Encryption) using PGP encryption.  The public key is then sent back to Sonar and stored with the neural network. The private key is kept secret in Capsule. At this point, Mines are able to pull down the Model (neural network) and attempt to train it.  Upon completion of training, the computed gradient is then uploaded back to the Sonar blockchain.  At this point, it can be determined how much the uploaded gradient affected the accuracy of the Model.  
