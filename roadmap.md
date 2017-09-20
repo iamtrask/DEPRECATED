@@ -41,16 +41,16 @@ The AC for this milestone is defined in form of work instructions necessary for 
 1. `docker-compose` [OM/mine](https://github.com/OpenMined/mine.js)
     * spawns `10` mine instances with unique addresses
     * starts local `IPFS` node (for each mine)
-    * connectivity to the blockhain from the OM/Sonar step
+    * connectivity to the blockchain from the OM/Sonar step
 1. `docker run` [OM/PySonar](https://github.com/OpenMined/PySonar)
     * jupyter notebook is accessible from host system
 
 1. optional: all these commands are bundled into a single `docker-compose` file available within the PySonar repository
 
 **Involved components & issues:**
-* [OM/mine](https://github.com/OpenMined/mine.js/issues?q=is%3Aissue+milestone%3AHydrogen)
-* [OM/Sonar](https://github.com/OpenMined/Sonar/issues?utf8=%E2%9C%93&q=is%3Aissue%20milestone%3AHydrogen%20)
-* [OM/PySonar](https://github.com/OpenMined/PySonar/issues?utf8=%E2%9C%93&q=is%3Aissue%20milestone%3AHydrogen%20)
+* [OM/mine](https://github.com/OpenMined/mine.js/issues?q=is:issue+milestone:Hydrogen)
+* [OM/Sonar](https://github.com/OpenMined/Sonar/issues?utf8=%E2%9C%93&q=is:issue%20milestone:Hydrogen%20)
+* [OM/PySonar](https://github.com/OpenMined/PySonar/issues?utf8=%E2%9C%93&q=is:issue%20milestone:Hydrogen%20)
 
 ## Future
 

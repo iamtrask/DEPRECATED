@@ -12,7 +12,7 @@ https://goo.gl/forms/86y61YQx6bIAI8TF3
 
 ## Step 2: OpenMined Introduction
 
-This video covers the platform as a whole including high level goals and the broad architecture strategies (the big moving parts!).
+This video covers the platform as a whole including high-level goals and the broad architecture strategies (the big moving parts!).
 
 [![Watch the video](https://github.com/OpenMined/Docs/raw/master/img/OpenMinedIntro.png)](https://www.youtube.com/watch?v=sXFmKquiVnk)
 
@@ -47,7 +47,7 @@ In order to see our documentation and issues in all their full glory, you'll wan
 
 ## Step 7: Figure out where you want to contribute!
 
-We welcome all people willing to contribute of any skill set and level of experience. The following is a list of consistently needed skillsets:
+We welcome all people willing to contribute, Irrespective of their skill set and level of experience. The following is a list of consistently needed skillsets:
 
 ### Machine learning
 **Repositories:**
@@ -107,15 +107,15 @@ We welcome all people willing to contribute of any skill set and level of experi
 **Slack channels:** #process, #team_docs
 
 ### UI Design
-User interface design is currently underway on SonarUI and MineUI - the user interfaces for data scientists and data hosts respectively. These are currently being discussed in the ui channel of Slack.
+User interface design is currently underway on SonarUI and MineUI - the user interfaces for data scientists and data hosts respectively. These are currently being discussed in the UI channel of Slack.
 
 ### UX Testing
-We need lots of testers. Currently this work is not related to any user interfaces, as those have not yet been designed or developed. We will have more need for this in the **very** near future, however. Feel free to reach out in the ux channel of Slack.
+We need lots of testers. Currently, this work is not related to any user interfaces, as those have not yet been designed or developed. We will have more need for this in the **very** near future, however. Feel free to reach out in the UX channel of Slack.
 
 ### Legal and Marketing
-For any of these topics - reach out to @trask in Slack. The needs of each are varied... here's a few examples:
+For any of these topics - reach out to @trask in Slack. The needs of each are varied... here are a few examples:
 
-There's a plethora of legal issues that come with a person taking back ownership of their information. How is ownership of data is transferred or dissolved after death? How tightly can we implement with third-party data providers from a legal perspective? What does the future of data ownership look like from a legal perspective?
+There are a plethora of legal issues that come with a person taking back ownership of their information. How is ownership of data is transferred or dissolved after death? How tightly can we implement with third-party data providers from a legal perspective? What does the future of data ownership look like from a legal perspective?
 
 We have a highly capable set of creative people working on the brand of OpenMined. How do we get this brand to be viewed positively by developers? How would a rollout to the general public work? How much time should an open source project spend on marketing itself?
 
@@ -133,7 +133,7 @@ Next, you click "Labels -> beginner".
 
 
 Or, click on this link:
-[Labels -> beginner](https://github.com/OpenMined/PySyft/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner).
+[Labels -> beginner](https://github.com/OpenMined/PySyft/issues?q=is:open+is:issue+label:beginner).
 
 
 This will filter out all tickets except for the `beginner` tickets.
