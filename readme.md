@@ -50,7 +50,7 @@ OpenMined is an unincorporated, volunteer-only open source project to provide fe
 
 - **Sonar** - A federated learning server running on the blockchain that handles all campaign requests, holding Bounty in trust.  This library communicates with the Capsule to generate PGP keys and deliver the final, trained results back to the Data Scientist. It also communicates with miners, collecting Gradients and distributing Bounty accordingly.
 
-- **Capsule** - A third-party PGP server to generate public and private keys in order to ensure that Sonar neural network stay encrypted properly.
+- **Capsule** - A third-party PGP server to generate public and private keys in order to ensure that Sonar neural network stays encrypted properly.
 
 - **Mine** - The individual data repositories of a user.  These are constantly checking Sonar for new neural nets to contribute to.  The more data that is uploaded to a mine, the more relevant it becomes to Sonar.  All the mines in the “minefield” are competing against each other to train a Sonar neural network if they contain applicable data.  Sonar does not know of these mines, but they all know of Sonar - it’s a unidirectional relationship for security purposes.
 
@@ -62,7 +62,7 @@ OpenMined is an unincorporated, volunteer-only open source project to provide fe
 PGP key generator, also responsible for delivering the trained and decrypted dataset back to data scientist
 
 - **Sonar** _(Solidity/Truffle)_  
-Blockchain contracts, holds all IPFS addresses for neural networks
+Blockchain contracts holds all IPFS addresses for neural networks
 
 - **PySonar** _(Python)_  
 Python data science library for training models over the platform
@@ -123,7 +123,7 @@ Data Scientists are incentivized to have high bounties because it means that the
 It’s also advantageous for a mine to begin training a dataset as soon as possible since the potential change gradient is higher at the beginning of training.
 
 Sonar is not aware of the mines before training, only the mines are aware of Sonar.  The mines are also not aware of the resources of each other, but yet they’re in direct competition.  This means that the larger and more varied a mine is in the data it contains, the greater chance it has to make an impact on a neural network.  This also means that miners (average people) are incentivized to upload as much personal data as possible into the mine.
-The earliest creators of mines will also reap the largest benefits, as it commonly the case with distributed blockchains.
+The earliest creators of mines will also reap the largest benefits, as is commonly the case with distributed blockchains.
 
 ## Sequential view
 
@@ -133,7 +133,7 @@ The earliest creators of mines will also reap the largest benefits, as it common
 
 For first timers go to the [quick start guide](./contributing/quickstart.md)
 
-If you are ready to dive in an start contributing, checkout our [guidelines](./contributing/guidelines.md) beforehand.
+If you are ready to dive in and start contributing, check out our [guidelines](./contributing/guidelines.md) beforehand.
 
 ## Website & Official Accounts
 
