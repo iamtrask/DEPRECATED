@@ -40,6 +40,9 @@ Once you've got a general understanding of the platform, you'll want to start wi
 - [Install PySonar](https://github.com/OpenMined/PySonar)
 - Demo: Encrypted Neural Network on Test Ethereum Blockchain
   - https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb
+  
+- Demo2: Encrypted Neural Network on Test Ethereum Blockchain (from source)
+  - https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Learning%20Demo.ipynb
 
 ## Step 6: Install Zenhub Plugin
 
