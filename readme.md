@@ -144,7 +144,7 @@ The official **OpenMined** website is available at [openmined.org](http://openmi
 * Continuous Integration: [Travis CI](https://travis-ci.org/OpenMined), [CircleCI](https://circleci.com/gh/OpenMined)
 * Code Coverage: [Codecov](https://codecov.io/gh/OpenMined)
 * Sourcecode: [Github](https://github.com/OpenMined)
-* Artifact registries: [NPM](https://www.npmjs.com/org/openmined), [Dockerhub](https://hub.docker.com/u/openmined/dashboard/)
+* Artifact registries: [NPM](https://www.npmjs.com/org/openmined), [Dockerhub](https://hub.docker.com/u/openmined/)
 
 ## Meetings
 
