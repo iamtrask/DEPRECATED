@@ -11,7 +11,9 @@ A colleciton of useful resources to learn more on Deeplearning
 
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 
-* [Nando de Freitas: Deep learning at Oxford 2015] (https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+* [Reinforcement Learning : David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
+
+* [Nando de Freitas: Deep learning at Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
 ## Textbook
 
