@@ -17,6 +17,8 @@ OpenMined is an unincorporated, volunteer-only open source project to provide fe
 - [Contributing](#contributing)
 - [Website & Official Accounts](#website--official-accounts)
 - [Meetings](#meetings)
+- [Resources](#resources)
+    - [Federated Learning](#federated-learning)
 - [License](#license)
 
 <!-- /TOC -->
@@ -149,6 +151,21 @@ The official **OpenMined** website is available at [openmined.org](http://openmi
 ## Meetings
 
 All public meetings are posted to the [meetings](./meetings) folder.
+
+## Resources
+
+### Federated Learning
+
+#### Papers
+
+* Google, [Federated Learning:
+Strategies for Improving Communication Efficiency](https://arxiv.org/pdf/1610.05492.pdf)
+* Google, [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
+* Google & University of Edinburgh, [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
+
+#### Blogs
+
+* Google, [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://research.googleblog.com/2017/04/federated-learning-collaborative.html)
 
 ## License
 
