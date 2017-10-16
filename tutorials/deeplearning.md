@@ -1,6 +1,5 @@
 # Deep Learning
-
-A colleciton of useful resources to learn more on Deeplearning 
+> A colleciton of useful resources to learn more on Deeplearning 
 
 ## Courses
 
@@ -11,7 +10,7 @@ A colleciton of useful resources to learn more on Deeplearning
 
 * [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
 
-* [Nando de Freitas: Deep learning at Oxford 2015] (https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+* [Nando de Freitas: Deep learning at Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
 ## Textbook
 
@@ -19,7 +18,7 @@ A colleciton of useful resources to learn more on Deeplearning
 
 ## Blog
 
-* [Neural Networks and Deep Learning] (http://neuralnetworksanddeeplearning.com)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 
 * [Andrej Karpathy Blog](http://karpathy.github.io)
 
