@@ -3,10 +3,13 @@
 #### Part 1: Join the Slack Team
 Proceed to our website (http://openmined.org/) and click the link to get an invitation to our Slack team.
 
-#### Part 2: Fill out your Slack Profile
+#### Part 2: Star the Repos!!
+Help show your support for OpenMined by starring our Github Repositories!!! This not only helps show your presence via our starcounts, but it also helps raise awareness for our repositories on Github's "Trending Repositories" page!
+
+#### Part 3: Fill out your Slack Profile
 Fill out your Slack profile with your background and interests, and introduce yourself in the #general-discussion channel.
 
-#### Part 3: Fill out the New Contributor Survey!
+#### Part 4: Fill out the New Contributor Survey!
 This will help us know who you are!
 https://goo.gl/forms/86y61YQx6bIAI8TF3
 
