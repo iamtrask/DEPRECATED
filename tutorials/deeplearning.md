@@ -1,6 +1,5 @@
 # Deep Learning
-
-A colleciton of useful resources to learn more on Deeplearning 
+> A colleciton of useful resources to learn more on Deeplearning 
 
 ## Courses
 
@@ -21,7 +20,7 @@ A colleciton of useful resources to learn more on Deeplearning
 
 ## Blog
 
-* [Neural Networks and Deep Learning] (http://neuralnetworksanddeeplearning.com)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 
 * [Andrej Karpathy Blog](http://karpathy.github.io)
 
