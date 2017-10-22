@@ -292,4 +292,4 @@ git push
 
 Now you can start from a clean state, knowing your next template will be the only divergence from `upstream` you'll have to deal with.
 
-**Based on an awesome git tutorial from [Felix Rieseberg](https://github.com/felixrieseberg)*g
+**Based on an awesome git tutorial from [Felix Rieseberg](https://github.com/felixrieseberg)**
