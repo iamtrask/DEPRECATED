@@ -43,7 +43,7 @@ Once you've got a general understanding of the platform, you'll want to start wi
 - [Install PySonar](https://github.com/OpenMined/PySonar)
 - Demo: Encrypted Neural Network on Test Ethereum Blockchain
   - https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb
-  
+
 - Demo2: Encrypted Neural Network on Test Ethereum Blockchain (from source)
   - https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Learning%20Demo.ipynb
 
@@ -61,14 +61,12 @@ We welcome all people willing to contribute, Irrespective of their skill set and
 - [sonar.js (Link pending) - Node.js client to blockchain application (Sonar)
 - [Sonar](https://github.com/OpenMined/Sonar) - Python Ethereum blockchain implementation
 - [PySyft](https://github.com/OpenMined/PySyft) - Python deep learning library
-- [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
 
 **Slack channels:** #team_sonar, #team_syft
 
 ### Homomorphic Encryption
 **Repositories:**
 - [PySyft](https://github.com/OpenMined/PySyft) - Python deep learning library
-- [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
 
 **Slack channels:** #team_syft
 
@@ -83,7 +81,6 @@ We welcome all people willing to contribute, Irrespective of their skill set and
 ### Node.js Development
 **Repositories:**
 - [mine.js](https://github.com/OpenMined/mine.js) - Node.js implementation of a user's personal data store, calls Syft for training
-- [syft.js](https://github.com/OpenMined/syft.js) - Node.js deep learning library (for web and mobile browsers)
 - sonar.js (Link pending) - Node.js client to blockchain application (Sonar)
 
 **Slack channels:** #team_sonar, #team_syft, #team_mine
