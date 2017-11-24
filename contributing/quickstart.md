@@ -30,12 +30,12 @@ Great!  You've made it this far.  Steps 3 - 6 get a little technical.  If you're
 
 Once you've got a general understanding of the platform, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
 
-- [First, install PySyft](https://github.com/OpenMined/PySyft/)
-- [Second, test this notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
+- [First, install PySyft](https://github.com/OpenMined/Deprecated-PySyft)
+- [Second, test this notebook](https://github.com/OpenMined/Deprecated-PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
 
 ## Step 4: Homomorphically Encrypted Linear Classifier Demo
 
-[Complete this Notebook](https://github.com/OpenMined/PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Encrypted%20Linear%20Classification.ipynb)
+[Complete this Notebook](https://github.com/OpenMined/Deprecated-PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Encrypted%20Linear%20Classification.ipynb)
 
 ## Step 5: Install Sonar, PySonar, and Demo
 
@@ -132,14 +132,14 @@ You now have the basics of the OpenMined ecosystem up and running and are ready 
 ![Issues.png](https://github.com/OpenMined/Docs/raw/master/img/issues.png)
 
 
-Next, you click "Labels -> beginner".
+Next, you click "Labels -> good first issue".
 
 
 Or, click on this link:
-[Labels -> beginner](https://github.com/OpenMined/PySyft/issues?q=is:open+is:issue+label:beginner).
+[Labels -> good first issue](https://github.com/OpenMined/PySyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
 
-This will filter out all tickets except for the `beginner` tickets.
+This will filter out all tickets except for the `good first issue` tickets.
 
 
 Click one of the tickets and you'll see something like this:
