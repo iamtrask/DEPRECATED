@@ -30,7 +30,7 @@ Great!  You've made it this far.  Steps 3 - 6 get a little technical.  If you're
 
 Once you've got a general understanding of the platform, you'll want to start with the basics, getting Homomorphic Encryption up and running within PySyft.
 
-- [First, install PySyft](https://github.com/OpenMined/PySyft)
+- [First, install PySyft](https://github.com/OpenMined/Deprecated-PySyft)
 - [Second, test this notebook](https://github.com/OpenMined/Deprecated-PySyft/blob/master/notebooks/Syft%20-%20Paillier%20Homomorphic%20Encryption%20Example.ipynb)
 
 ## Step 4: Homomorphically Encrypted Linear Classifier Demo
