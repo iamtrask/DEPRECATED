@@ -5,6 +5,9 @@ OpenMined uses [Unity](https://unity3d.com) as explained in [Why Unity?](https:/
 Introduction to Thread & Group Indexing
 - https://msdn.microsoft.com/en-us/library/windows/desktop/ff471568(v=vs.85).aspx
 
+Most excellent resource on HLSL with programming patterns (from NVIDIA)
+- http://developer.download.nvidia.com/compute/DevZone/docs/html/DirectCompute/doc/DirectCompute_Programming_Guide.pdf
+
 Introduction to Compute Shaders
 - http://kylehalladay.com/blog/tutorial/2014/06/27/Compute-Shaders-Are-Nifty.html
 - http://www.lindsaygcox.co.uk/tutorials/unity-shader-tutorial-an-intro-to-compute-shaders/
