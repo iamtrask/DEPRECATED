@@ -162,6 +162,7 @@ All public meetings are posted to the [meetings](./meetings) folder.
 Strategies for Improving Communication Efficiency](https://arxiv.org/pdf/1610.05492.pdf)
 * Google, [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
 * Google & University of Edinburgh, [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/pdf/1610.02527.pdf)
+* N1Analytics & Data61, [Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption](https://arxiv.org/abs/1711.10677)
 
 #### Blogs
 
