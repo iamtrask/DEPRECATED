@@ -21,7 +21,7 @@ This document is part of the [feature evolution process](feature_evolution.md) a
 
 ### Hydrogen 💧
 
-**Theme:** Reproduce the [diabetes demo use case](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) with all components running indivdually
+**Theme:** Reproduce the [diabetes demo use case](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Learning%20Demo.ipynb) with all components running indivdually
 
 **Goals:**
 * enable distributed development
