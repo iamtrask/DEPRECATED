@@ -21,7 +21,7 @@ This document is part of the [feature evolution process](feature_evolution.md) a
 
 ### Hydrogen 💧
 
-**Theme:** Reproduce the [diabetes demo use case](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Model%20Training%20Simulation%20(local%20blockchain).ipynb) with all components running indivdually
+**Theme:** Reproduce the [diabetes demo use case](https://github.com/OpenMined/PySonar/blob/master/notebooks/Sonar%20-%20Decentralized%20Learning%20Demo.ipynb) with all components running indivdually
 
 **Goals:**
 * enable distributed development
@@ -64,7 +64,7 @@ The AC for this milestone is defined in form of work instructions necessary for 
 * Improve security by trusted component with key ownership
 * Tackle differential privacy issue by shielding individual gradients from the data scientist
 
-[Helium Roadmap](https://github.com/OpenMined/Docs/blob/docs/roadmaps--breaking-out-by-milestone/roadmaps/helium.md)
+[Helium Roadmap](https://github.com/OpenMined/Docs/blob/master/roadmaps/helium.md)
 
 ### Lithium 🔋
 
@@ -75,7 +75,7 @@ The AC for this milestone is defined in form of work instructions necessary for 
 * support `diabetes` and personal `twitter` data in the mine/Sonar
 * basic NLP support in `pySonar`
 
-[Helium Roadmap](https://github.com/OpenMined/Docs/blob/docs/roadmaps--breaking-out-by-milestone/roadmaps/lithium.md)
+[Lithium Roadmap](https://github.com/OpenMined/Docs/blob/master/roadmaps/lithium.md)
 
 
 ## Past
