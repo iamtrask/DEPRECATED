@@ -50,6 +50,25 @@ For the most part, we follow [git flow](http://nvie.com/posts/a-successful-git-b
 - Be respectful to the reviewer! We are all trying to improve OpenMined 📈
 - Once your Pull Request has been accepted, you are officially a contributor! 🔥💥🎆🎉
 
+### Code Acceptance guidelines
+
+If you're contributing to PySyft and/or OpenMined Unity app, here's how you should make sure your code works correctly before creating the pull request:
+
+1. Make sure you notified other contibutors that you're working on an issue by posting a comment on the github issue page. That'll help others to understand who's working on what, ask you questions about the issue later on, or ask for advice in if someone's working on a related issue.
+2. If you're adding or changing some behavior of Syft, **you should first create a notebook example of the expected behavior.** Specifically, go to `OpenMined/notebooks/tests/` and add an example to an appropriate notebook. The example works as an integration test and will fail at this point. That's OK.
+3. Write an integration test in `OpenMined/integration/`. The test should fail at this point.
+4. Update or write tests in OpenMined Unity app. Run tests via Window > Test Runner to make sure your new test fails.
+5. First update the OpenMined Unity code and make sure tests from Pt 4 now work correctly.
+6. Write the PySyft code and make sure integration tests work correctly.
+
+To run integration tests, do this:
+
+```bash
+cd ./integration
+pytest
+```
+
+Make sure no new failing tests appeared because of your code changes before submitting your pull request. If you see any failing tests, check if there's a related issue on Github, and ping us on Slack in #team_unity if there's no issue for a failing test.
 
 ## Code
 
