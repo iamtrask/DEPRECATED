@@ -69,6 +69,7 @@ Although cryptography books tend to be self-contained, to get a better grasp of 
 
 - [HElib](https://github.com/shaih/HElib): C++ implementation of the BGW'12 FHE scheme
 
+- [Palisade](https://git.njit.edu/palisade/PALISADE) C++ implementation
 
 ## Blogs
 
